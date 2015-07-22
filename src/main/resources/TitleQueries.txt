@@ -1,0 +1,30 @@
+Text Segmentation with LDA-Based Fisher Kernel.
+Subjectivity Word Sense Disambiguation
+Unsupervised Semantic Role Labellin.
+Learning Probabilistic Paradigms For Morphology In A Latent Class Model
+Unsupervised Argument Identification for Semantic Role Labeling.
+Non-Projective Parsing for Statistical Machine Translation.
+Discriminative Training And Maximum Entropy Models For Statistical Machine Translation.
+Parser Adaptation and Projection with Quasi-Synchronous Grammar Features.
+ACL 2008: Semi-supervised Learning Tutorial.
+Very High Accuracy and Fast Dependency Parsing is not a Contradiction
+Projective Dependency Parsing With Perceptron.
+Hierarchical Clustering Of Words.
+A survey on the role of negation in sentiment analysis
+A Bayesian Approach For User Modeling In Dialogue Systems.
+Noun Phrase Coreference As Clustering
+Machine Learning Of Temporal Relations.
+Statistical Properties Of Probabilistic Context-Free Grammars.
+CoNLL-X Shared Task on Multilingual Dependency Parsing.
+Cluster analysis and display of genome-wide expression patterns
+Unsupervised Multilingual Learning for POS Tagging
+Automatic Acquisition of Hierarchical Transduction Models for Machine Translation.
+No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities.
+Data-Driven Response Generation in Social Media.
+Unsupervised Discovery Of A Statistical Verb Lexicon.
+Scaling Phrase-Based Statistical Machine Translation to Larger Corpora and Longer Phrases.
+A Statistical Approach to Machine Translation.
+Dependency Parsing of Turkish.
+Join Ordering for Constraint Handling Rules
+Towards Robust Semantic Role Labeling.
+The Role Of Lexico-Semantic Feedback In Open-Domain Textual Question-Answering

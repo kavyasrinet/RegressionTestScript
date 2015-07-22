@@ -1,0 +1,33 @@
+apply plugin: 'java'
+apply plugin: 'idea'
+
+version = '1.0'
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'eu.appsatori:gradle-fatjar-plugin:0.3'
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+apply plugin: 'eu.appsatori.fatjar'
+apply plugin: 'application'
+
+dependencies {
+    compile 'org.elasticsearch:elasticsearch:1.6.0'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'org.apache.httpcomponents:httpclient:4.1-alpha1'
+}
+
+run {
+    main = "TitleScript"
+    if ( project.hasProperty("appArgs") ) {
+        args Eval.me(appArgs)
+    }
+}

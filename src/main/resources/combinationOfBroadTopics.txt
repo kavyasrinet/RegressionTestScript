@@ -1,0 +1,46 @@
+phrase-based statistical machine translation statistical machine translation
+word clusters wordnet
+multilingual dependency parsing multi-lingual parsing
+automatic acquisition of hyponyms hyponym acquisition
+statistical machine translation verbmobil task
+statistical part-of-speech tagger penn treebank
+gibbs sampling non-local information
+word alignment verbmobil corpus
+dependency parsing penn treebank
+tree annotation indexing speech
+sentiment classification support vector machines
+sentiment classification semantic orientation
+statistical machine translation statistical methods
+sentiment analysis subjectivity summarization based on minimum cuts
+inter-annotator agreement cohen's kappa
+natural language processing maximum entropy
+unlexicalized parsing penn treebank
+language modelling n-gram models
+n-best parsing sentence parsing
+clustering of english words distributional clustering
+machine translation bootstrap resampling
+part-of-speech tagging discriminative training
+unlexicalized parsing maximum likelihood estimates
+syntax-based translation models syntax-based
+conll 2007 shared task on dependency parsing domain adaptation
+hierarchical phrase-based models synchronous cfg
+transformation-based learning penn treebank
+bootstrapping unsupervised learning
+measure likelihood ratios
+statistical machine translation bleu
+sentiment analysis opinionfinder
+part-of-speech tagging brill tagger
+non-projective dependency parsing online large-margin learning techniques
+computational lexicography framenet
+lexicalised context-free grammar generative lexicalized models
+part-of-speech tagging cyclic dependency network
+part-of-speech tagging penn treebank
+minimum error rate training moses
+statistical machine translation phrase-based translation
+parser lexicalized markov grammar
+machine learning muc-6 coreference corpus
+statistical machine translation ibm model 1
+semantic role labeling propbank
+theory of discourse structure intentional
+word alignment french-english hansards task
+local coherence modeling local coherence of discourse

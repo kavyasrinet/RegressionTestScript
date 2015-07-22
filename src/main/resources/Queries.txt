@@ -1,0 +1,28 @@
+part-of-speech tagging markov models
+Part-of-speech tagging markov models smoothing
+probabilistic generative model maximum entropy
+relation extraction hyponym acquisition
+relation extraction wordnet
+word alignment HMM
+dependency parsing domain adaptation
+dependency parsing CoNLL 2007 Shared Task
+non-projective dependency parsing
+non-projective dependency parsing maximum spanning trees
+Coreference Resolution machine learning
+shallow semantic parsers semantic role labeling
+shallow semantic parsers Framenet
+language-independent statistical methods word alignment
+semantic role labeling rule-based automatic tagger
+semantic role labeling proposition bank
+statistical machine translation synchronous CFG
+statistical machine translation hierarchical phrase-based models
+maximum entropy
+Dependency Parsing
+open information extraction
+semantic parsing
+speech processing
+Word Sense Disambiguation
+sentiment analysis
+context free grammar
+phrase-based translation
+word alignment

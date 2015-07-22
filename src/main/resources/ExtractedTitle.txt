@@ -1,0 +1,1000 @@
+Contrastive Estimation: Training Log-Linear Models On Unlabeled Data
+CPN-CORE: A Text Semantic Similarity System Infused with Opinion Knowledge
+A Centering Approach To Pronouns
+Discriminative Training And Maximum Entropy Models For Statistical Machine Translation
+bwbaugh: Hierarchical sentiment analysis with partial self-training
+Relational Inference for Wikification
+Termight: Identifying And Translating Technical Terminology
+Corpus Statistics Meet The Noun Compound: Some Empirical Results
+Top Accuracy and Fast Dependency Parsing is not a Contradiction
+SemEval-2013 Task 12: Multilingual Word Sense Disambiguation
+Calibrating Features For Semantic Role Labeling
+Loosely Tree-Based Alignment For Machine Translation
+Integrated Annotation For Biomedical Information Extraction
+Mining WordNet For Fuzzy Sentiment: Sentiment Tag Extraction From WordNet Glosses
+Learning the Scope of Hedge Cues in Biomedical Texts
+SPMT: Statistical Machine Translation With Syntactified Target Language Phrases
+Unsupervised Personal Name Disambiguation
+Ranking Algorithms For Named-Entity Extraction: Boosting And The Voted Perceptron
+TMTprime: A Recommender System for MT and TM Integration
+Minimum Risk Annealing For Training Log-Linear Models
+Inducing A Semantically Annotated Lexicon Via EM-Based Clustering
+UMCC_DLSI: Textual Similarity based on Lexical-Semantic features
+Munich-Edinburgh-Stuttgart Submissions at WMT13: Morphological and Syntactic Processing for SMT
+Performance and limitations of the linguistically motivated Cocoa/Peaberry system in a broad biological domain
+OpinionFinder: A System For Subjectivity Analysis
+SEM 2013 shared task: Semantic Textual Similarity
+A Maximum Entropy Model For Part-Of-Speech Tagging
+Arabic Tokenization, Part-Of-Speech Tagging And Morphological Disambiguation In One Fell Swoop
+The Alignment Template Approach To Statistical Machine Translation
+Are ACT's Scores Increasing with Better Translation Quality?
+A Generative Joint, Additive, Sequential Model of Topics and Speech Acts in Patient-Doctor Communication
+Unsupervised Word Usage Similarity in Social Media Texts
+Overview of BioNLP Shared Task 2013
+HLTDI: CL-WSD Using Markov Random Fields for SemEval-2013 Task 10
+Message Understanding Conference- 6: A Brief History
+Machine Transliteration
+Enriching The Knowledge Sources Used In A Maximum Entropy Part-Of-Speech Tagger
+KELVIN: a tool for automated knowledge base construction
+LORIA System for the WMT13 Quality Estimation Shared Task
+Combining PCFG-LA Models with Dual Decomposition: A Case Study with Function Labels and Binarization
+A Convex Alternative to IBM Model 2
+Functional Centering --  Grounding Referential Coherence In Information Structure
+Morphological, Syntactical and Semantic Knowledge in Statistical Machine Translation
+Word Segmentation, Unknown-word Resolution, and Morphological Agreement in a Hebrew Parsing System
+USNA: A Dual-Classifier Approach to Contextual Sentiment Analysis
+Confidence Estimation For Machine Translation
+A Hierarchical Entity-Based Approach to Structuralize User Generated Content in Social Media: A Case of Yahoo! Answers
+A Generative Constituent-Context Model For Improved Grammar Induction
+Scaling To Very Very Large Corpora For Natural Language Disambiguation
+Manual And Automatic Evaluation Of Machine Translation Between European Languages
+An Empirical Evaluation Of Knowledge Sources And Learning Algorithms For Word Sense Disambiguation
+Corpus-Based Induction Of Syntactic Structure: Models Of Dependency And Constituency
+Understanding and Quantifying Creativity in Lexical Composition
+The Importance Of Supertagging For Wide-Coverage CCG Parsing
+Bootstrapping Semantic Role Labelers from Parallel Data
+Semantic-Head-Driven Generation
+Feature Weight Optimization for Discourse-Level SMT
+Exploiting Multiple Sources for Open-Domain Hypernym Discovery
+Coarse-To-Fine N-Best Parsing And MaxEnt Discriminative Reranking
+Two Languages are Better than One (for Syntactic Parsing
+Dialogue Act Modeling For Automatic Tagging And Recognition Of Conversational Speech
+Statistical Significance Tests For Machine Translation Evaluation
+Transformation-Based Error-Driven Learning And Natural Language Processing: A Case Study In Part Of Speech Tagging
+Pair Language Models for Deriving Alternative Pronunciations and Spellings from Pronunciation Dictionaries
+Models For The Semantic Classification Of Noun Phrases
+Bootstrapping Statistical Parsers From Small Datasets
+A Unification Method For Disjunctive Feature Descriptions
+The Penn Discourse TreeBank 2.0
+A Simple Rule-Based Part Of Speech Tagger
+Introduction To The CoNLL-2004 Shared Task: Semantic Role Labeling
+Word-Sense Disambiguation Using Statistical Models Of Roget's Categories Trained On Large Corpora
+METEOR: An Automatic Metric For MT Evaluation With Improved Correlation With Human Judgments
+Accurate Methods For The Statistics Of Surprise And Coincidence
+SemEval-2013 Task 10: Cross-lingual Word Sense Disambiguation
+A Syntax-Based Statistical Translation Model
+Translating Named Entities Using Monolingual And Bilingual Resources
+A Rule-Based Approach To Prepositional Phrase Attachment Disambiguation
+A Shortest Path Dependency Kernel For Relation Extraction
+Cross-Lingual Discriminative Learning of Sequence Models with Posterior Regularization
+SHEF-Lite: When Less is More for Translation Quality Estimation
+Automated Essay Scoring by Maximizing Human-Machine Agreement
+Effects Of Adjective Orientation And Gradability On Sentence Subjectivity
+Robust Pronoun Resolution with Limited Knowledge
+Simulating Early-Termination Search for Verbose Spoken Queries
+UEM-UC3M: An Ontology-based named entity recognition system for biomedical texts.
+Implicitation of Discourse Connectives in (Machine) Translation
+Positive Diversity Tuning for Machine Translation System Combination
+Extracting Semantic Orientations Of Words Using Spin Model
+A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model
+Identifying Word Correspondences In Parallel Texts
+Moses: Open Source Toolkit for Statistical Machine Translation
+Exploiting Diversity In Natural Language Processing: Combining Parsers
+Decoding with Large-Scale Neural Language Models Improves Translation
+CCGbank: A Corpus of CCG Derivations and Dependency Structures Extracted from the Penn Treebank
+Bidirectional Inference With The Easiest-First Strategy For Tagging Sequence Data
+Using The Web To Obtain Frequencies For Unseen Bigrams
+A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging
+Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data
+Unsupervised Models For Named Entity Classification
+A Systematic Exploration of Diversity in Machine Translation
+Identifying Word Translations In Non-Parallel Texts
+Semantic Parsing Freebase: Towards Open-domain Semantic Parsing
+A Maximum Entropy Approach to Chinese Word Segmentation
+Authorship Attribution of Micro-Messages
+Referential Translation Machines for Quality Estimation
+The CNGL-DCU-Prompsit Translation Systems for WMT13
+Using Contextual Speller Techniques and Language Modeling for ESL Error Correction
+Probabilistic Parsing For German Using Sister-Head Dependencies
+Generalizing an Approximate Subgraph Matching-based System to Extract Events in Molecular Biology and Cancer Genetics
+Serendio: Simple and Practical lexicon based approach to Sentiment Analysis
+Statistical Parsing With An Automatically-Extracted Tree Adjoining Grammar
+GU-MLT-LT: Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent
+Semantic Parsing with Combinatory Categorial Grammars
+Where Not to Eat? Improving Public Policy by Predicting Hygiene Inspections Using Online Reviews
+Fully Automatic Lexicon Expansion For DomainOriented Sentiment Analysis
+Domain Adaptation With Structural Correspondence Learning
+iKernels-Core: Tree Kernel Learning for Textual Similarity
+UTurku: Drug Named Entity Recognition and Drug-Drug Interaction Extraction Using SVM Classification and Domain Knowledge
+Efficient Parsing for Head-Split Dependency Trees
+Joint WMT 2013 Submission of the QUAERO Project
+Joshua 5.0: Sparser, Better, Faster, Server
+Learning Biological Processes with Global Constraints
+UKP: Computing Semantic Textual Similarity by Combining Multiple Content Similarity Measures
+QCRI-MES Submission at WMT13: Using Transliteration Mining to Improve Statistical Machine Translation
+A Phrase-Based, Joint Probability Model For Statistical Machine Translation
+UPC-CORE: What Can Machine Translation Evaluation Metrics and Wikipedia Do for Estimating Semantic Textual Similarity?
+Parsing Croatian and Serbian by Using Croatian Dependency Treebanks
+A Statistical Approach to Prediction of Empty Categories in Hindi Dependency Treebank
+Machine Transliteration Of Names In Arabic Texts
+UBC_UOS-TYPED: Regression for typed-similarity
+KenLM: Faster and Smaller Language Model Queries
+UZH in BioNLP 2013
+Thumbs Up? Sentiment Classification Using Machine Learning Techniques
+Typed Unification Grammars
+Multi-document multilingual summarization corpus preparation, Part 1: Arabic, English, Greek, Chinese, Romanian
+An Improved Error Model For Noisy Channel Spelling Correction
+Max-Violation Perceptron and Forced Decoding for Scalable MT Training
+Modeling Semantic Relations Expressed by Prepositions
+Learning Bilingual Lexicons from Monolingual Corpora
+Monolingual Marginal Matching for Translation Model Adaptation
+A Hierarchical Phrase-Based Model For Statistical Machine Translation
+Summarizing Complex Events: a Cross-Modal Solution of Storylines Extraction and Reconstruction
+Probabilistic  CFG With Latent Annotations
+Leveraging Lexical Cohesion and Disruption for Topic Segmentation
+Corpus Variation And Parser Performance
+Lithuanian Dependency Parsing with Rich Morphological Features
+ECNUCS: A Surface Information Based System Description of Sentiment Analysis in Twitter in the SemEval-2013 (Task 2)
+Assembling the Kazakh Language Corpus
+Extracting Complex Biological Events with Rich Graph-Based Feature Sets
+A Probability Model To Improve Word Alignment
+DeepPurple: Lexical, String and Affective Feature Fusion for Sentence-Level Semantic Similarity Estimation
+Randomized Algorithms And NLP: Using Locality Sensitive Hash Functions For High Speed Noun Clustering
+Dynamic Feature Selection for Dependency Parsing
+Interpretation As Abduction
+Improvements In Automatic Thesaurus Extraction
+NaCTeM EventMine for BioNLP 2013 CG and PC tasks
+A Phrase Orientation Model for Hierarchical Machine Translation
+Efficient Third-Order Dependency Parsers
+Inter-Coder Agreement for Computational Linguistics
+Minimally Supervised Morphological Analysis By Multimodal Alignment
+SATTY: Word Sense Induction Application in Web Search Clustering â
+A Bootstrapping Method For Learning Semantic Lexicons Using Extraction Pattern Contexts
+Choosing the Right Words: Characterizing and Reducing Error of the Word Count Approach
+HENRY-CORE: Domain Adaptation and Stacking for Text Similarity
+KLUE: Simple and robust methods for polarity classification
+Effective Morphological Feature Selection with MaltOptimizer at the SPMRL 2013 Shared Task
+Evaluating WordNet-based Measures of Lexical Semantic Relatedness
+A Semantically Enhanced Approach to Determine Textual Similarity
+Tunable Distortion Limits and Corpus Cleaning for SMT
+Detecting Compositionality of Multi-Word Expressions using Nearest Neighbours in Vector Space Models
+Japanese Discourse And The Process Of Centering
+Recognizing Stances in Online Debates
+Prototype-Driven Learning For Sequence Models
+SemEval-2007 Task 15: TempEval Temporal Relation Identification
+Multi-Paragraph Segmentation Of Expository Text
+Forest-Based Statistical Sentence Generation
+Unsupervised Learning Of The Morphology Of A Natural Language
+Celi: EDITS and Generic Text Pair Classification
+IIIT-H: A Corpus-Driven Co-occurrence Based Probabilistic Model for Noun Compound Paraphrasing
+senti.ue-en: an approach for informally written short texts in SemEval-2013 Sentiment Analysis task
+SemEval-2007 Task 10: English Lexical Substitution Task
+Generalized Inference With Multiple Semantic Role Labeling Systems
+ASVUniOfLeipzig: Sentiment Analysis in Twitter using Data-driven Machine Learning Techniques
+Noun Classification From Predicate.argument Structures
+unimelb: Topic Modelling-based Word Sense Induction
+The ATIS Spoken Language Systems Pilot Corpus
+Deterministic Dependency Parsing Of English Text
+D-PATR: A Development Environment For Unification-Based Grammars
+Using a Dependency Parser to Improve SMT for Subject-Object-Verb Languages
+Recovery Strategies For Parsing Extragrammatical Language
+Using the text to evaluate short answers for reading comprehension exercises
+Noun-Phrase Co-occurrence Statistics for Semi-Automatic Semantic Lexicon Construction
+Get Out The Vote: Determining Support Or Opposition From Congressional Floor-Debate Transcripts
+Intelligent Selection of Language Model Training Data
+Automatically Identifying Pseudepigraphic Texts
+Entity-Based Cross-Document Core f erencing Using the Vector Space Model
+Polylingual Topic Models
+Empirical Methods For Compound Splitting
+A Unigram Orientation Model For Statistical Machine Translation
+Variational Inference for Structured NLP Models
+Efficient Left-to-Right Hierarchical Phrase-Based Translation with Improved Reordering
+Introduction To The CoNLL-2005 Shared Task: Semantic Role Labeling
+Obituary: George A. Miller
+Selecting Feature Sets for Comparative and Time-Oriented Quality Estimation of Machine Translation Output
+Named Entity Recognition Through Classifier Combination
+sielers: Feature Analysis and Polarity Classification of Expressions from Twitter and SMS Data
+Word Sense Disambiguation Using A Second Language Monolingual Corpus
+Minimized Models for Unsupervised Part-of-Speech Tagging
+Predicting the Resolution of Referring Expressions from User Behavior
+Precision And Recall Of Machine Translation
+NIL_UCM: Extracting Drug-Drug interactions from text through combination of sequence and tree kernels
+Statistical Phrase-Based Translation
+Improved Alignment Models For Statistical Machine Translation
+Parsing The LOB Corpus
+Joint Arc-factored Parsing of Syntactic and Semantic Dependencies
+Understanding the Value of Features for Coreference Resolution
+Max-Margin Parsing
+Lexical Chain Based Cohesion Models for Document-Level Statistical Machine Translation
+Automatic Evaluation Of Summaries Using N-Gram Co-Occurrence Statistics
+A Walk-Based Semantically Enriched Tree Kernel Over Distributed Word Representations
+UMBC_EBIQUITY-CORE: Semantic Textual Similarity Systems
+KooSHO: Japanese Text Input Environment based on Aerial Hand Writing
+Selectional Preferences for Semantic Role Classification
+Three New Probabilistic Models For Dependency Parsing: An Exploration
+Features And Values
+Modeling Local Coherence: An Entity-Based Approach
+Using Predicate-Argument Structures For Information Extraction
+Pre-Reordering for Machine Translation Using Transition-Based Walks on Dependency Parse Trees
+Broad-Coverage Sense Disambiguation And Information Extraction With A Supersense Sequence Tagger
+LIMSI submission for the WMTâ13 quality estimation task: an experiment with ngram posteriors
+General estimation and evaluation of compositional distributional semantic models
+More Accurate Tests For The Statistical Significance Of Result Differences
+A Linear Observed Time Statistical Parser Based On Maximum Entropy Models
+A Structured Distributional Semantic Model: Integrating Structure with Semantics
+Intricacies Of Collins Parsing Model
+KnCe2013-CORE:Semantic Text Similarity by use of Knowledge Bases
+Discovering Relations Among Named Entities From Large Corpora
+Semantic Taxonomy Induction From Heterogenous Evidence
+Semantic Parsing on Freebase from Question-Answer Pairs
+A temporal model of text periodicities using Gaussian Processes
+Ranking Translations using Error Analysis and Quality Estimation
+Advances In Domain Independent Linear Text Segmentation
+Learning Surface Text Patterns For A Question Answering System
+This Text Has the Scent of Starbucks: A Laplacian Structured Sparsity Model for Computational Branding Analytics
+Optimizing Chinese Word Segmentation for Machine Translation Performance
+Thumbs Up Or Thumbs Down? Semantic Orientation Applied To Unsupervised Classification Of Reviews
+Using Syntactic Dependency As Local Context To Resolve Word Sense Ambiguity
+Deep Learning for NLP (without Magic)
+Tagging English Text With A Probabilistic Model
+A Mention-Synchronous Coreference Resolution Algorithm Based On The Bell Tree
+BUT-TYPED: Using domain knowledge for computing typed similarity
+DCU Participation in WMT2013 Metrics Task
+Learning Adaptable Patterns for Passage Reranking
+Distributional Clustering Of English Words
+Translating Collocations For Bilingual Lexicons: A Statistical Approach
+Clause Restructuring For Statistical Machine Translation
+Exploring Demographic Language Variations to Improve Multilingual Sentiment Analysis in Social Media
+Metaphor Identification as Interpretation
+IRISA participation to BioNLP-ST 2013: lazy-learning and information retrieval for information extraction tasks
+A Joint Model of Text and Aspect Ratings for Sentiment Summarization
+Experiments With A Multilanguage Non-Projective Dependency Parser
+BOUNCE: Sentiment Classification in Twitter using Rich Feature Sets
+Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+Automatic Tagging Of Arabic Text: From Raw Text To Base Phrase Chunks
+Joint Language and Translation Modeling with Recurrent Neural Networks
+TEES 2.1: Automated Annotation Scheme Learning in the BioNLP 2013 Shared Task
+Feature Noising for Log-Linear Structured Prediction
+Extracting Paraphrases From A Parallel Corpus
+The UWB Summariser at Multiling-2013
+SemEval-2013 Task 7: The Joint Student Response Analysis and 8th Recognizing Textual Entailment Challenge
+Evaluating Translational Correspondence Using Annotation Projection
+TextRank: Bringing Order Into Texts
+SemEval-2013 Task 9 : Extraction of Drug-Drug Interactions from Biomedical Texts (DDIExtraction 2013)
+An Empirical Study Of Semi-Supervised Chinese Word Segmentation Using Co-Training
+A Comparison Of Alignment Models For Statistical Machine Translation
+Building A Contrasting Taxa Extractor for Relation Identification from Assertions: BIOlogical Taxonomy & Ontology Phrase Extraction System
+Deriving Adjectival Scales from Continuous Space Word Representations
+Scaling Web-Based Acquisition Of Entailment Relations
+Constraint Grammar As A Framework For Parsing Running Text
+Synchronous Tree-Adjoining Grammars
+AVAYA: Sentiment Analysis on Twitter with Self-Training and Polarity Lexicon Expansion
+Improvements to the Bayesian Topic N-Gram Models
+Fast Joint Compression and Summarization via Graph Cuts
+NLTK: The Natural Language Toolkit
+LIG System for WMT13 QE Task: Investigating the Usefulness of Features in Word Confidence Estimation for MT
+AI-KU: Using Substitute Vectors and Co-Occurrence Modeling For Word Sense Induction and Disambiguation
+A Noisy-Channel Approach To Question Answering
+Summarizing Scientific Articles - Experiments With Relevance And Rhetorical Status
+SU-Sentilab: A Classification System for Sentiment Analysis in Twitter
+Multilingual Dependency Analysis With A Two-Stage Discriminative Parser
+Monolingual Machine Translation For Paraphrase Generation
+Chinese Segmentation And New Word Detection Using Conditional Random Fields
+Chinese Part-Of-Speech Tagging: One-At-A-Time Or All-At-Once? Word-Based Or Character-Based?
+Vector Space Semantic Parsing: A Framework for Compositional Vector Space Models
+Multilingual Single-Document Summarization with MUSE
+UWM-TRIADS: Classifying Drug-Drug Interactions with Two-Stage SVM and Post-Processing
+ACL 2013 MultiLing Pilot Overview
+Generalized Probabilistic LR Parsing Of Natural Language (Corpora) With Unification-Based Grammars
+A Hierarchical Bayesian Language Model Based On PitmanYor Processes
+Building A Large-Scale Annotated Chinese Corpus
+A Hybrid approach for biomedical event extraction
+Why doesnât EM find good HMM POS-tagge
+Discriminative Sentence Compression With Soft Syntactic Evidence
+Online Polylingual Topic Models for Fast Document Translation Detection
+The Penn Treebank: Annotating Predicate Argument Structure
+Image Description using Visual Dependency Representations
+WBI-DDI: Drug-Drug Interaction Extraction using Majority Voting
+Extracting Semantic Hierarchies From A Large On-Line Dictionary
+UNAL: Discriminating between Literal and Figurative Phrasal Usage Using Distributional Statistics and POS tags
+Cheap and Fast â€“ But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks
+Scaling Semantic Parsers with On-the-Fly Ontology Matching
+On Some Pitfalls In Automatic Evaluation And Significance Testing For MT
+Generating English Determiners in Phrase-Based Translation with Synthetic Translation Options
+Hidden Markov Tree Model for Word Alignment
+UNITOR-CORE_TYPED: Combining Text Similarity and Semantic Filters through SV Regression
+Learning Topics and Positions from Debatepedia
+Experiments with a Higher-Order Projective Dependency Parser
+Dependency-Based Decipherment for Resource-Limited Machine Translation
+Modeling Child Divergences from Adult Grammar
+Chinese Zero Pronoun Resolution: Some Recent Advances
+Relaxation Techniques For Parsing Grammatically Ill-Formed Input In Natural Language Understanding Systems
+Text-Translation Alignment
+Lattice Minimum Bayes-Risk Decoding for Statistical Machine Translation
+Forest-Based Translation
+Finding Predominant Word Senses In Untagged Text
+Alignment By Agreement
+Automatic Extraction of Morphological Lexicons from Morphologically Annotated Corpora
+Categorial Unification Grammars
+Improving Pointwise Mutual Information (PMI) by Incorporating Significant Co-occurrence
+Supertagging: An Approach To Almost Parsing
+Acquisition of Desires before Beliefs: A Computional Investigation
+Argviz: Interactive Visualization of Topic Dynamics in Multi-party Conversations
+Regularized Minimum Error Rate Training
+Automatic Identification Of Non-Compositional Phrases
+A Property-Sharing Constraint In Centering
+Aligning A Parallel English-Chinese Corpus Statistically With Lexical Criteria
+Letter N-Gram-based Input Encoding for Continuous Space Language Models
+teragram: Rule-based detection of sentiment phrases using SAS Sentiment Analysis
+Automatic Verb Classification Based On Statistical Distributions Of Argument Structure
+Analysing Lexical Consistency in Translation
+Tense As Discourse Anaphor
+A Novel Use Of Statistical Parsing To Extract Information From Text
+An Approach Using Style Classification Features for Quality Estimation
+Vector-based Models of Semantic Composition
+Centering: A Framework For Modeling The Local Coherence Of Discourse
+Automatically Detecting and Attributing Indirect Quotations
+Associative Texture Is Lost In Translation
+Parsing The Wall Street Journal Using A Lexical-Functional Grammar And Discriminative Estimation Techniques
+Towards Robust Linguistic Analysis using OntoNotes
+UT-DB: An Experimental Study on Sentiment Analysis in Twitter
+A Uniform Architecture For Parsing And Generation
+Detecting Relations in the Gene Regulation Network
+Recurrent Continuous Translation Models
+Re-Evaluation The Role Of Bleu In Machine Translation Research
+Easy Victories and Uphill Battles in Coreference Resolution
+Detection of Product Comparisons - How Far Does an Out-of-the-Box Semantic Role Labeling System Take You?
+TAG, Dynamic Programming, and the Perceptron for Efficient, Feature-Rich Parsing
+Cooking Up Referring Expressions
+Extracting Gene Regulation Networks Using Linear-Chain Conditional Random Fields and Rules
+Incorporating Non-Local Information Into Information Extraction Systems By Gibbs Sampling
+Representing Text Chunks
+Integrating GraphBased and Transition-Based Dependency Parsers
+The Design Of A Computer Language For Linguistic Information
+A Program For Aligning Sentences In Bilingual Corpora
+Inducing Multilingual Text Analysis Tools Via Robust Projection Across Aligned Corpora
+Log-Linear Models For Word Alignment
+Towards The Automatic Identification Of Adjectival Scales: Clustering Adjectives According To Meaning
+Better Word Representations with Recursive Neural Networks for Morphology
+Temporal Ontology And Temporal Reference
+Combining Lexical, Syntactic, And Semantic Features With Maximum Entropy Models For Information Extraction
+A Syntax-Directed Translator With Extended Domain Of Locality
+MEANT at WMT 2013: A Tunable, Accurate yet Inexpensive Semantic Frame Based MT Evaluation Metric
+Statistical Decision-Tree Models For Parsing
+Dramatically Reducing Training Data Size Through Vocabulary Saturation
+Class-Based Probability Estimation Using A Semantic Hierarchy
+A Study on Bootstrapping Bilingual Vector Spaces from Non-Parallel Data (and Nothing Else)
+Umelb: Cross-lingual Textual Entailment with Word Alignment and String Similarity Features
+Identifying Multiple Userids of the Same Author
+Inducing Document Plans for Concept-to-Text Generation
+Learning from errors: Using vector-based compositional semantics for parse reranking
+Combined Distributional and Logical Semantics
+Squibs: Going to the Roots of Dependency Parsing
+UColorado_SOM: Extraction of Drug-Drug Interactions from Biomedical Text using Knowledge-rich and Knowledge-poor Features
+Assessing Agreement On Classification Tasks: The Kappa Statistic
+LIPN-CORE: Semantic Text Similarity using n-grams, WordNet, Syntactic Analysis, ESA and Information Retrieval based Features
+Exploiting A Probabilistic Hierarchical Model For Generation
+Large-scale Word Alignment Using Soft Dependency Cohesion Constraints
+Effective Self-Training For Parsing
+Three Heads Are Better Than One
+Concise Integer Linear Programming Formulations for Dependency Parsing
+The Senseval-3 English Lexical Sample Task
+Learning Multilingual Subjective Language via Cross-Lingual Projections
+A Structured Vector Space Model for Word Meaning in Context
+Contextual Word Similarity And Estimation From Sparse Data
+Learning Non-Isomorphic Tree Mappings For Machine Translation
+Data-driven, PCFG-based and Pseudo-PCFG-based Models for Chinese Dependency Parsing
+Predicting the Compositionalityof Multiword Expressions Using Translationsin Multiple Languages
+Documents and Dependencies: an Exploration of Vector Space Models for Semantic Composition
+Detecting Narrativity to Improve English to French Translation of Simple Past Verbs
+Combining Bilingual and Comparable Corpora for Low Resource Machine Translation
+Introduction To The CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition
+Topic Models + Word Alignment = A Flexible Framework for Extracting Bilingual Dictionary from Comparable Corpus
+UNITOR: Combining Syntactic and Semantic Kernels for Twitter Sentiment Analysis
+Incremental Integer Linear Programming For Non-Projective Dependency Parsing
+A Non-Monotonic Arc-Eager Transition System for Dependency Parsing
+Classifier Combination for Improved Lexical Disambiguation
+ETS: Domain Adaptation and Stacking for Short Answer Scoring
+Never Look Back: An Alternative to Centering
+Learning to translate with products of novices: a suite of open-ended challenge problems for teaching MT
+MELODI: A Supervised Distributional Approach for Free Paraphrasing of Noun Compounds
+A fast rule-based approach for biomedical event extraction
+Detecting A Continuum Of Compositionality In Phrasal Verbs
+Fast Methods For Kernel-Based Text Analysis
+Identifying Manipulated Offerings on Review Portals
+A Discriminative Matching Approach To Word Alignment
+Constructing a Practical Constituent Parser from a Japanese Treebank with Function Labels
+Joint Unsupervised Coreference Resolution with Markov Logic
+EHU-ALM: Similarity-Feature Based Approach for Student Response Analysis
+Findings of the 2009 Workshop on Statistical Machine Translation
+UoS: A Graph-Based System for Graded Word Sense Induction
+Success with Style: Using Writing Style to Predict the Success of Novels
+Translation with Source Constituency and Dependency Trees
+COGEX: A Logic Prover For Question Answering
+On Coreference Resolution Performance Metrics
+The Web As A Parallel Corpus
+Squibs What Is a Paraphrase?
+IBM_EG-CORE: Comparing multiple Lexical and NE matching features in measuring Semantic Textual similarity
+SemEval-2013 Task 4: Free Paraphrases of Noun Compounds
+An HDP Model for Inducing Combinatory Categorial Grammars
+Synchronous Binarization For Machine Translation
+Web-Scale Distributional Similarity and Entity Set Expansion
+UNITOR-HMM-TK: Structured Kernel-based learning for Spatial Role Labeling
+Efficient Solutions for Word Reordering in German-English Phrase-Based Statistical Machine Translation
+A Joint Source-Channel Model For Machine Transliteration
+Coping With Syntactic Ambiguity Or How To Put The Block In The Box On The Table
+Improving Data Driven Wordclass Tagging by System Combination
+A Graph Model For Unsupervised Lexical Acquisition
+Topic Models and Metadata for Visualizing Text Corpora
+NTNU: Domain Semi-Independent Short Message Sentiment Classification
+Paraphrasing For Automatic Evaluation
+Montague Meets Markov: Deep Semantics with Probabilistic Logical Form
+An Efficient Method For Determining Bilingual Word Classes
+CFILT-CORE: Semantic Textual Similarity using Universal Networking Language
+WSD2: Parameter optimisation for Memory-based Cross-Lingual Word-Sense Disambiguation
+Improving Unsupervised Dependency Parsing with Richer Contexts and Smoothing
+Discriminative Reordering Models For Statistical Machine Translation
+Dependency Tree Kernels For Relation Extraction
+Parsing entire discourses as very long strings: Capturing topic continuity in grounded language learning
+Umigon: sentiment analysis for tweets based on terms lists and heuristics
+A Maximum Entropy Approach To Natural Language Processing
+A Discriminative Latent Variable Model for Statistical Machine Translation
+Clustering and Diversifying Web Search Results with Graph-Based Word Sense Induction
+Automatic Rule Induction For Unknown Word Guessing
+A Model-Theoretic Coreference Scoring Scheme
+TÃœBÄ°TAK-BÄ°LGEM German-English Machine Translation Systems for W13
+Dynamic Programming for Linear-Time Incremental Parsing
+Unsupervised Semantic Parsing
+Distinguishing Common and Proper Nouns
+Stochastic Inversion Transduction Grammars And Bilingual Parsing Of Parallel Corpora
+Efficient Parsing For Bilexical Context-Free Grammars And Head Automaton Grammars
+DAEBAK!: Peripheral Diversity for Multilingual Word Sense Disambiguation
+Generalizing Word Lattice Translation
+Sampling Alignment Structure under a Bayesian Translation Model
+Attention,  Intentions,  And The Structure Of Discourse
+Learning Subjective Nouns Using Extraction Pattern Bootstrapping
+Automatic Construction Of A Hypernym-Labeled Noun Hierarchy From Text
+Exploiting the Contribution of Morphological Information to Parsing: the BASQUE TEAM system in the SPRMLâ2013 Shared Task
+TJP: Using Twitter to Analyze the Polarity of Contexts
+UMLS::Similarity: Measuring the Relatedness and Similarity of Biomedical Concepts
+BioNLP Shared Task 2013: Supporting Resources
+Exploiting multiple hypotheses for Multilingual Spoken Language Understanding
+Pseudo-Projective Dependency Parsing
+Identifying Sources Of Opinions With Conditional Random Fields And Extraction Patterns
+Multilingual summarization system based on analyzing the discourse structure at MultiLing 2013
+The Importance of Syntactic Parsing and Inference in Semantic Role Labeling
+Duluth: Word Sense Induction Applied to Web Page Clustering
+More Words and Bigger Pictures
+Syntax-Based Alignment Of Multiple Translations: Extracting Paraphrases And Generating New Sentences
+Discriminative Reranking For Natural Language Parsing
+Regular Models Of Phonological Rule Systems
+Exploiting Social Media for Natural Language Processing: Bridging the Gap between Language-centric and Real-world Applications
+CoNLL-X Shared Task On Multilingual Dependency Parsing
+Generating Phrasal and Sentential Paraphrases: A Survey of Data-Driven Methods
+Discriminative Training Methods For Hidden Markov Models: Theory And Experiments With Perceptron Algorithms
+Characterizing Structural Descriptions Produced By Various  Grammatical Formalisms
+Lattice-based Minimum Error Rate Training for Statistical Machine Translation
+An Efficient Probabilistic Context-Free Parsing Algorithm That Computes Prefix Probabilities
+A Maximum Entropy Model For Prepositional Phrase Attachment
+Generalizing Case Frames Using A Thesaurus And The MDL Principle
+Finding Parts In Very Large Corpora
+Hidden Markov tree models for semantic class induction
+Named Entity Recognition Without Gazetteers
+SRIUBC-Core: Multiword Soft Similarity Models for Textual Similarity
+UMCC_DLSI: Reinforcing a Ranking Algorithm with Sense Frequencies and Multidimensional Semantic Resources to solve Multilingual Word Sense Disambiguation
+Prior Disambiguation of Word Tensors for Constructing Sentence Vectors
+Visual Features for Linguists: Basic image analysis techniques for multimodally-curious NLPers
+A Tree Sequence Alignment-based Tree-to-Tree Translation Model
+A Plan-Based Analysis Of Indirect Speech Act
+Exploiting Semantic Role Labeling, WordNet And Wikipedia For Coreference Resolution
+The First International Chinese Word Segmentation Bakeoff
+Unsupervised Part-of-Speech Tagging with Bilingual Graph-Based Projections
+Parallel Implementations of Word Alignment Tool
+The LIGM-Alpage architecture for the SPMRL 2013 Shared Task: Multiword Expression Analysis and Dependency Parsing
+Statistical Machine Translation By Parsing
+Sentence Compression with Joint Structural Inference
+A Semantic Concordance
+Grammatical Category Disambiguation By Statistical Optimization
+Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
+Findings of the 2011 Workshop on Statistical Machine Translation
+Ubertagging: Joint Segmentation and Supertagging for English
+Machine Translation with Many Manually Labeled Discourse Connectives
+Maximum Entropy Based Phrase Reordering Model For Statistical Machine Translation
+First paper : SPMRLâ13 Shared Task System: The CADIM Arabic Dependency Parser
+Semantic Class Learning from the Web with Hyponym Pattern Linkage Graphs
+UC3M: A kernel-based approach to identify and classify DDIs in bio-medical texts.
+Graph-Based Posterior Regularization for Semi-Supervised Structured Prediction
+Context Based Statistical Morphological Analyzer and its Effect on Hindi Dependency Parsing
+Shallow Semantically-Informed PBSMT and HPBSMT
+DALE: A Word Sense Disambiguation System for Biomedical Documents Trained using Automatically Labeled Examples
+The Generative Lexicon
+Biomedical Event Extraction by Multi-class Classification of Pairs of Text Entities
+FBK: Sentiment Analysis in Twitter with Tweetsted
+MayoClinicNLPâ€CORE: Semantic representations for textual similarity
+Overview of BioNLPâ€™09 Shared Task on Event Extraction
+Breaking Out of Local Optima with Count Transforms and Model Recombination: A Study in Grammar Induction
+Semantic Compositionality through Recursive Matrix-Vector Spaces
+Automatic Labeling Of Semantic Roles
+Exploring Content Models for MultiDocument Summarization
+Automatic Knowledge Acquisition for Case Alternation between the Passive and Active Voices in Japanese
+FBK-UEdin Participation to the WMT13 Quality Estimation Shared Task
+Fast, Cheap, and Creative: Evaluating Translation Quality Using Amazonâ€™s Mechanical Turk
+Exploring a Probabilistic Earley Parser for Event Composition in Biomedical Texts
+OntoLearn Reloaded: A Graph-Based Algorithm for Taxonomy Induction
+Syntax Augmented Machine Translation Via Chart Parsing
+Online Large-Margin Training Of Dependency Parsers
+A Study On Convolution Kernels For Shallow Statistic Parsing
+A Maximum Entropy Word Aligner For Arabic-English Machine Translation
+Learning Subjective Language
+Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World
+Improving Statistical Machine Translation Using Word Sense Disambiguation
+An IR Approach for Translating New Words from Nonparallel, Comparable Texts
+One Sense Per Collocation
+A Boosted Semi-Markov Perceptron
+Collapsed Variational Bayesian Inference for PCFGs
+SSA-UO: Unsupervised Sentiment Analysis in Twitter
+PolyUCOMP-CORE_TYPED: Computing Semantic Textual Similarity using Overlapped Senses
+Semantic Role Labeling
+Multi-Relational Latent Semantic Analysis
+Multilingual Summarization: Dimensionality Reduction and a Step Towards Optimal Term Coverage
+Phrasal Cohesion And Statistical Machine Translation
+Extracting Opinions, Opinion Holders, And Topics Expressed In Online News Media Text
+A Syntactic Analysis Method Of Long Japanese Sentences Based On The Detection Of Conjunctive Structures
+Introduction To The CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition
+Coreference Resolution Using Competition Learning Approach
+Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging
+ECNUCS: Recognizing Cross-lingual Textual Entailment Using Multiple Text Similarity and Text Difference Measures
+An Improved Extraction Pattern Representation Model For Automatic IE Pattern Acquisition
+Scalable Inference And Training Of Context-Rich Syntactic Translation Models
+A Practical Part-Of-Speech Tagger
+A Composite Kernel To Extract Relations Between Entities With Both Flat And Structured Features
+SCAI: Extracting drug-drug interactions using a rich feature vector
+Exploring Vector Space Models to Predict the Compositionality of German Noun-Noun Compounds
+Factored Language Models And Generalized Parallel Backoff
+Probabilistic Top-Down Parsing And Language Modeling
+Dependency Parsing and Domain Adaptation with LR Models and Parser Ensembles
+Joshua: An Open Source Toolkit for Parsing-Based Machine Translation
+BioNLP shared Task 2013 â€ An Overview of the Bacteria Biotope Task
+Findings of the 2010 Joint Workshop on Statistical Machine Translation and Metrics for Machine Translation
+Automatically Identifying Implicit Arguments to Improve Argument Linking and Coherence Modeling
+[LVIC-LIMSI]: Using Syntactic Features and Multi-polarity Words for Sentiment Analysis in Twitter
+Kea: Expression-level Sentiment Analysis from Twitter Data
+Application of Localized Similarity for Web Documents
+A Linear Programming Formulation For Global Inference In Natural Language Tasks
+SemEval-2013 Task 2: Sentiment Analysis in Twitter
+Determining The Sentiment Of Opinions
+A Web Application for the Diagnostic Evaluation of Machine Translation over Specific Linguistic Phenomena
+Mining New Business Opportunities: Identifying Trend related Products by Leveraging Commercial Intents from Microblogs
+TextTiling: Segmenting Text Into Multi-Paragraph Subtopic Passages
+Sentiment Analysis: How to Derive Prior Polarities from SentiWordNet
+Using a Keyness Metric for Single and Multi Document Summarisation
+Prepositional Phrase Attachment Through A Backed-Off Model
+Automatic Identification Of Word Translations From Unrelated English And German Corpora
+Semi-Supervised Representation Learning for Cross-Lingual Text Classification
+Feature-Rich Part-Of-Speech Tagging With A Cyclic Dependency Network
+Improving Translation Quality by Discarding Most of the Phrasetable
+The mathematics of language learning
+HMM-Based Word Alignment In Statistical Translation
+K-Vec: A New Approach For Aligning Parallel Texts
+Paraphrasing With Bilingual Parallel Corpora
+Frame Semantics for Stance Classification
+Automatic Acquisition Of Subcategorization Frames From Untagged Text
+LIMSI: Cross-lingual Word Sense Disambiguation using Translation Sense Clustering
+Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions
+Language Independent Named Entity Recognition Combining Morphological And Contextual Evidence
+NLP for uncertain data at scale
+FBM: Combining lexicon-based ML and heuristics for Social Media Polarities
+UniMelb_NLP-CORE: Integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
+Parsing Strategies With 'Lexicalized' Grammars: Application To Tree Adjoining Grammars
+Dijkstra-WSA: A Graph-Based Approach to Word Sense Alignment
+A Multimodal LDA Model integrating Textual, Cognitive and Visual Modalities
+Early Results For Named Entity Recognition With Conditional Random Fields, Feature Induction And Web-Enhanced Lexicons
+Improved Statistical Machine Translation Using Paraphrases
+Transducing Sentences to Syntactic Feature Vectors: an Alternative Way to Parse?
+Comlex Syntax: Building A Computational Lexicon
+Grounding Action Descriptions in Videos
+Anafora: A Web-based General Purpose Annotation Tool
+Event Schema Induction with a Probabilistic Entity-Driven Model
+Meta-Rules As A Basis For Processing Ill-Formed Input
+Named Entity Recognition Using An HMM-Based Chunk Tagger
+SXUCFN-Core: STS Models Integrating FrameNet Parsing Information
+OntoNotes: The 90% Solution
+A Corpus-Based Investigation Of Definite Description Use
+Columbia NLP: Sentiment Detection of Subjective Phrases in Social Media
+Working with a small dataset- semi-supervised dependency parsing for Irish
+SOFTCARDINALITY-CORE: Improving Text Overlap with Distributional Measures for Semantic Textual Similarity
+An Unsupervised Approach To Recognizing Discourse Relations
+The Second Release Of The RASP System
+The University of Cambridge Russian-English System at WMT13
+CoMeT: Integrating different levels of linguistic modeling for meaning assessment
+The CoNLL-2009 Shared Task: Syntactic and Semantic Dependencies in Multiple Languages
+A Statistical Approach To Machine Translation
+Machine Translation Divergences: A Formal Description And Proposed Solution
+Identifying Anaphoric And Non-Anaphoric Noun Phrases To Improve Coreference Resolution
+Classifying Message Board Posts with an Extracted Lexicon of Patient Attributes
+The TALP-UPC Approach to System Selection: Asiya Features and Pairwise Classification Using Random Forests
+Improving Machine Learning Approaches To Coreference Resolution
+Findings of the 2012 Workshop on Statistical Machine Translation
+The Necessity Of Parsing For Predicate Argument Recognition
+Better K-Best Parsing
+UNIBA-CORE: Combining Strategies for Semantic Textual Similarity
+Applying Conditional Random Fields To Japanese Morphological Analysis
+SemEval-2013 Task 11: Word Sense Induction and Disambiguation within an End-User Application
+Stochastic Attribute-Value Grammars
+A Unified Model for Topics, Events and Users on Twitter
+An Unsupervised Method For Word Sense Tagging Using Parallel Corpora
+Inside-Outside Reestimation From Partially Bracketed Corpora
+Shared Logistic Normal Distributions for Soft Parameter Tying in Unsupervised Grammar Induction
+Mixed Initiative In Dialogue: An Investigation Into Discourse Segmentation
+Weakly Supervised Learning for Hedge Classification in Scientific Literature
+Tuning as Ranking
+The Berkeley FrameNet Project
+A Cross-Task Flexible Transition Model for Arabic Tokenization, Affix Detection, Affix Labeling, POS Tagging, and Dependency Parsing
+Syntactic Features For Evaluation Of Machine Translation
+Toward Memory-Based Translation
+Verb Semantics And Lexical Selection
+Three Generative, Lexicalized Models For Statistical Parsing
+Semi-Supervised Feature Transformation for Dependency Parsing
+Multilingual Multi-Document Summarization with POLY2
+A Novel Feature-based Bayesian Model for Query Focused Multi-document Summarization
+Further Meta-Evaluation of Machine Translation
+Measures Of Distributional Similarity
+Parsing Morphologically Rich Languages: Introduction to the Special Issue
+Unsupervised Construction Of Large Paraphrase Corpora: Exploiting Massively Parallel News Sources
+A Semantic-Head-Driven Generation Algorithm For Unification-Based Formalisms
+Unsupervised Dependency Parsing with Acoustic Cues
+A Statistical Approach To Language Translation
+Exploiting Domain Knowledge in Aspect Extraction
+A* Parsing: Fast Exact Viterbi Parse Selection
+Automatic Acquisition Of Domain Knowledge For Information Extraction
+Design Challenges and Misconceptions in Named Entity Recognition
+Making Tree Kernels Practical For Natural Language Learning
+SemEval-2007 Task 02: Evaluating Word Sense Induction and Discrimination Systems
+Bleu: A Method For Automatic Evaluation Of Machine Translation
+UKP-BIU: Similarity and Entailment Metrics for Student Response Analysis
+The LinGO Redwoods Treebank: Motivation And Preliminary Applications
+Elephant: Sequence Labeling for Word and Sentence Segmentation
+Ã¢â‚¬Å“Not not badÃ¢â‚¬Â is not Ã¢â‚¬Å“badÃ¢â‚¬Â: A distributional account of negation
+Joint Learning Improves Semantic Role Labeling
+DLS-CORE: A Simple Machine Learning Model of Semantic Textual Similarity
+Exploring Various Knowledge In Relation Extraction
+UMCC_DLSI-(SA): Using a ranking algorithm and informal features to solve Sentiment Analysis in Twitter
+CNGL-CORE: Referential Translation Machines for Measuring Semantic Similarity
+Analysis of Stopping Active Learning based on Stabilizing Predictions
+Book Review
+Quality Estimation for Machine Translation Using the Joint Method of Evaluation Criteria and Statistical Modeling
+A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based Dependency Parsing
+Good, Great, Excellent: Global Inference of Semantic Intensities
+Disambiguating Noun Groupings With Respect To Wordnet Senses
+Information Fusion In The Context Of MultiDocument Summarization
+BioNLP Shared Task 2013 â€ An overview of the Genic Regulation Network Task
+ROUGE: A Package For Automatic Evaluation Of Summaries
+Harvesting Parallel News Streams to Generate Paraphrases of Event Relations
+Spectral Learning Algorithms for Natural Language Processing
+Minimum Cut Model For Spoken Lecture Segmentation
+The RWTH Aachen Machine Translation System for WMT 2013
+ALTN: Word Alignment Features for Cross-lingual Textual Entailment
+Word-Sense Disambiguation Using Statistical Methods
+FBK-irst: A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information
+Multi-Rate HMMs for Word Alignment
+An Algorithm For Pronominal Anaphora Resolution
+(Re)ranking Meets Morphosyntax: State-of-the-art Results from the SPMRL 2013 Shared Task
+SOFTCARDINALITY: Hierarchical Text Overlap for Student Response Analysis
+Well-Argued Recommendation: Adaptive Models Based on Words in Recommender Systems
+Learning A Translation Lexicon From Monolingual Corpora
+Simple Coreference Resolution with Rich Syntactic and Semantic Features
+Fish Transporters and Miracle Homes: How Compositional Distributional Semantics can Help NP Parsing
+Decipherment
+Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors
+Simple Customization of Recursive Neural Networks for Semantic Relation Classification
+GRO Task: Populating the Gene Regulation Ontology with events and relations
+Generative Models For Statistical Parsing With Combinatory Categorial Grammar
+Multi-Domain Adaptation for SMT Using Multi-Task Learning
+Automatic Detection Of Text Genre
+First paper : MT quality estimation: The CMU system for WMTâ13
+Building A Discourse-Tagged Corpus In The Framework Of Rhetorical Structure Theory
+Centroid-Based Summarization Of Multiple Documents: Sentence Extraction, Utility-Based Evaluation, And User Studies
+Word-Sense Disambiguation Using Decomposable Models
+cdec: A Decoder, Alignment, and Learning Framework for Finite-State and Context-Free Translation Models
+Overview of the Cancer Genetics (CG) task of BioNLP Shared Task 2013
+Class-Based N-Gram Models Of Natural Language
+Learning Synchronous Grammars for Semantic Parsing with Lambda Calculus
+Dynamically Shaping the Reordering Search Space of Phrase-Based Statistical Machine Translation
+Incremental Tree Substitution Grammar for Parsing and Sentence Prediction
+Using Restriction To Extend Parsing Algorithms For Complex-Feature-Based Formalisms
+Preemptive Information Extraction Using Unrestricted Relation Discovery
+Stanfordâ€™s Multi-Pass Sieve Coreference Resolution System at the CoNLL-2011 Shared Task
+Text Chunking Using Transformation-Based Learning
+A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based On Minimum Cuts
+The Answer is at your Fingertips: Improving Passage Retrieval for Web Question Answering with Search Behavior Data
+Automatic Evaluation Of Machine Translation Quality Using Longest Common Subsequence And Skip-Bigram Statistics
+ECNUCS: Measuring Short Text Semantic Equivalence Using Multiple Similarity Measurements
+Structural Ambiguity And Lexical Relations
+NILC_USP: A Hybrid System for Sentiment Analysis in Twitter Messages
+Selectional Preference And Sense Disambiguation
+Improved Statistical Alignment Models
+Applicative structure in vector space models
+Learning To Paraphrase: An Unsupervised Approach Using Multiple-Sequence Alignment
+A Procedure For Quantitatively Comparing The Syntactic Coverage Of English Grammars
+Generating Coherent Event Schemas at Scale
+A Systematic Comparison Of Various Statistical Alignment Models
+INAOE_UPV-CORE: Extracting Word Associations from Document Corpora to estimate Semantic Textual Similarity
+Boosting Cross-Language Retrieval by Learning Bilingual Phrase Associations from Relevance Rankings
+Planning Coherent Multisentential Text
+Using Multiple Knowledge Sources For Word Sense Discrimination
+Distortion Models For Statistical Machine Translation
+A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches
+SemEval-2007 Task 04: Classification of Semantic Relations between Nominals
+Evaluating Automated And Manual Acquisition Of Anaphora Resolution Strategies
+The Automated Acquisition Of Topic Signatures For Text Summarization
+XLING: Matching Query Sentences to a Parallel Corpus using Topic Models for WSD
+An Efficient Augmented-Context-Free Parsing Algorithm
+The Proposition Bank: An Annotated Corpus Of Semantic Roles
+Identifying Relations for Open Information Extraction
+An Annotation Scheme For Free Word Order Languages
+A Stochastic Parts Program And Noun Phrase Parser For Unrestricted Text
+Naive Bayes Word Sense Induction
+Finite-State Transducers In Language And Speech Processing
+BUAP: N-gram based Feature Evaluation for the Cross-Lingual Textual Entailment Task
+Aligning Sentences In Parallel Corpora
+TINA: A Natural Language System For Spoken Language Applications
+Automatic Retrieval and Clustering of Similar Words
+Robust Automated Natural Language Processing with Multiword Expressions and Collocations
+Multi-document multilingual summarization corpus preparation, Part 2: Czech, Hebrew and Spanish
+UKP-WSI: UKP Lab Semeval-2013 Task 11 System Description
+Translating into Morphologically Rich Languages with Synthetic Phrases
+WBI-NER: The impact of domain-specific features on the performance of identifying and classifying mentions of drugs
+Decision Lists For Lexical Ambiguity Resolution: Application To Accent Restoration In Spanish And French
+Online Large-Margin Training of Syntactic and Structural Translation Features
+Orthonormal Explicit Topic Analysis for Cross-Lingual Document Matching
+Discourse Segmentation By Human And Automated Means
+REACTION: A naive machine learning approach for sentiment classification
+A Conditional Random Field Word Segmenter for Sighan Bakeoff 2005
+Non-Projective Dependency Parsing Using Spanning Tree Algorithms
+Coping with the Subjectivity of Human Judgements in MT Quality Estimation
+Morphological Analysis For Statistical Machine Translation
+Hierarchical Phrase-Based Translation with Suffix Arrays
+Dependency Treelet Translation: Syntactically Informed Phrasal SMT
+Branch and Bound Algorithm for Dependency Parsing with Non-local Features. TACL
+Opinion Mining in Newspaper Articles by Entropy-Based Word Connections
+Online Learning Of Approximate Dependency Parsing Algorithms
+VerbOcean: Mining The Web For Fine-Grained Semantic Verb Relations
+Learning Dependency-Based Compositional Semantics
+OPTWIMA: Comparing Knowledge-rich and Knowledge-poor Approaches for Sentiment Analysis in Short Informal Texts
+Dependency Language Models for Sentence Completion
+The English All-Words Task
+Soft Syntactic Constraints for Hierarchical Phrased-Based Translation
+Has A Consensus NL Generation Architecture Appeared, And Is It Psycholinguistically Plausible?
+Simple Semi-supervised Dependency Parsing
+Estimators for Stochastic ``Unification-Based'' Grammars
+Sentence Level Discourse Parsing Using Syntactic And Lexical Information
+NRC: A Machine Translation Approach to Cross-Lingual Word Sense Disambiguation (SemEval-2013 Task 10)
+Stochastic Lexicalized Tree-Adjoining Grammars
+Automatically Extracting And Representing Collocations For Language Generation
+Lexicon-Based Methods for Sentiment Analysis
+Discourse Processing
+Introduction To The Special Issue On The Web As Corpus
+Learning Distributions over Logical Forms for Referring Expression Generation
+Using A Semantic Concordance For Sense Identification
+Minimum Error Rate Training In Statistical Machine Translation
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction
+Graph-Based Generation Of Referring Expressions
+Arabic Preprocessing Schemes For Statistical Machine Translation
+A Comparative Study On Reordering Constraints In Statistical Machine Translation
+Automatic Acquisition Of Hyponyms From Large Text Corpora
+Disambiguation Of Proper Names In Text
+Long-Distance Dependency Resolution In Automatically Acquired Wide-Coverage PCFG-Based LFG Approximations
+Using Crowdsourcing to get Representations based on Regular Expressions
+Ontology-based semantic annotation: an automatic hybrid rule-based method
+Supervised Morphological Segmentation in a Low-Resource Learning Setting using Conditional Random Fields
+Spectral Learning of Refinement HMMs
+The Genia Event Extraction Shared Task, 2013 Edition- Overview
+Extraposition Grammars
+Introduction To The Special Issue On Computational Linguistics Using Large Corpora
+AMI&ERIC: How to Learn with Naive Bayes and Prior Knowledge: an Application to Sentiment Analysis
+Minimally-Supervised Morphological Segmentation using Adaptor Grammars
+DCU-Symantec at the WMT 2013 Quality Estimation Shared Task
+A Simple and Effective Hierarchical Phrase Reordering Model
+IITB-Sentiment-Analysts: Participation in Sentiment Analysis in Twitter SemEval 2013 Task
+Nymble: A High-Performance Learning Name-Finder
+Improving A Statistical MT System With Automatically Learned Rewrite Patterns
+Online Active Learning for Cost Sensitive Domain Adaptation
+Terminology Extraction Approaches for Product Aspect Detection in Customer Reviews
+Unsupervised Semantic Role Labeling
+SAIL: A hybrid approach to sentiment analysis
+Tagging Inlective Languages: Prediction of Morphological Categories for a Rich Structured Tagset
+Shallow Parsing With Conditional Random Fields
+A Problem For RST: The Need For Multi-Level Discourse Analysis
+Labeled Pseudo-Projective Dependency Parsing With Support Vector Machines
+Fast Decoding And Optimal Decoding For Machine Translation
+Text Representations for Patent Classification
+Multi-Task Learning for Improved Discriminative Training in SMT
+Unsupervised Multilingual Learning for Morphological Segmentation
+unimelb: Topic Modelling-based Word Sense Induction for Web Snippet Clustering
+SINAI: Machine Learning and Emotion of the Crowd for Sentiment Analysis in Microblogs
+Extracting Parallel Sub-Sentential Fragments From Non-Parallel Corpora
+Computing Lexical Contrast
+Immediate-Head Parsing For Language Models
+CLaC-CORE: Exhaustive Feature Combination for Measuring Textual Similarity
+An MT Error-Driven Discriminative Word Lexicon using Sentence Structure Features
+Exploiting Syntactic Structure for Language Modeling
+uOttawa: System description for SemEval 2013 Task 2 Sentiment Analysis in Twitter
+The CoNLL-2008 Shared Task on Joint Parsing of Syntactic and Semantic Dependencies
+A Maximum-Entropy-Inspired Parser
+Dependency-based Syntacticâ€“Semantic Analysis with PropBank and NomBank
+Learning Semantic Constraints For The Automatic Discovery Of Part-Whole Relations
+Estimating Upper And Lower Bounds On The Performance Of Word-Sense Disambiguation Programs
+Parser Combination By Reparsing
+UCAM-CORE: Incorporating structured distributional similarity into STS
+Morphological and Syntactic Case in Statistical Dependency Parsing
+KLUE-CORE: A regression model of semantic textual similarity
+Improving Statistical Machine Translation with Word Class Models
+UoM: Using Explicit Semantic Analysis for Classifying Sentiments
+SFS-TUE: Compound Paraphrasing with a Language Model and Discriminative Reranking
+Does Baum-Welch Re-Estimation Help Taggers?
+Forest Reranking: Discriminative Parsing with Non-Local Features
+GETALP: Propagation of a Lesk Measure through an Ant Colony Algorithm
+Machine Translation Using Probabilistic Synchronous Dependency Insertion Grammar
+The Ups and Downs of Preposition Error Detection in ESL Writing
+Mining The Web For Bilingual Text
+Knowledge Sources for Constituent Parsing of German, a Morphologically Rich and Less-Configurational Language
+The SemEval-2007 WePS Evaluation: Establishing a benchmark for the Web People Search Task
+Head-Driven Statistical Models For Natural Language Parsing
+Shift-Reduce Word Reordering for Machine Translation
+Word Association Norms, Mutual Information And Lexicography
+What is the Jeopardy Model? A Quasi-Synchronous Grammar for QA
+Comparative Experiments On Disambiguating Word Senses: An Illustration Of The Role Of Bias In Machine Learning
+Philosophers are Mortal: Inferring the Truth of Unseen Facts
+UMCC_DLSI: Semantic and Lexical features for detection and classification Drugs in biomedical texts
+Identifying Web Search Query Reformulation using Concept based Matching
+A Fast And Portable Realizer For Text Generation Systems
+Reading Level Assessment Using Support Vector Machines And Statistical Language Models
+Ontological Promiscuity
+Polyglot: Distributed Word Representations for Multilingual NLP
+Efficient, Feature-based, Conditional Random Field Parsing
+A Comparison Of Algorithms For Maximum Entropy Parameter Estimation
+A Dataset of Syntactic-Ngrams over Time from a Very Large Corpus of English Books
+Learning to Rank Lexical Substitutions
+Translation of It in a Deep Syntax Framework
+Learning Dependency Translation Models As Collections Of Finite-State Head Transducers
+Retrieving Collocations From Text: Xtract
+Development And Use Of A Gold-Standard Data Set For Subjectivity Classifications
+Identification of Genia Events using Multiple Classifiers
+Collective Opinion Target Extraction in Chinese Microblogs
+Syntactic Constraints on Paraphrases Extracted from Parallel Corpora
+Relational Features in Fine-Grained Opinion Analysis
+A Non-Projective Dependency Parser
+Seeing Stars: Exploiting Class Relationships For Sentiment Categorization With Respect To Rating Scales
+Finding Optimal 1-Endpoint-Crossing Trees
+Efficient Minimum Error Rate Training and Minimum Bayes-Risk Decoding for Translation Hypergraphs and Lattices
+Multi-document multilingual summarization and evaluation tracks in ACL 2013 MultiLing Workshop
+Characterizing the Errors of Data-Driven Dependency Parsing Models
+Improving Statistical MT Through Morphological Analysis
+The AI-KU System at the SPMRL 2013 Shared Task : Unsupervised Features for Dependency Parsing
+Batch Tuning Strategies for Statistical Machine Translation
+Incremental Parsing With The Perceptron Algorithm
+Data-Driven Parsing using Probabilistic Linear Context-Free Rewriting Systems
+Translation By Structural Correspondences
+The VerbCorner Project: Toward an Empirically-Based Semantic Decomposition of Verbs
+Of Words, Eyes and Brains: Correlating Image-Based Distributional Semantic Models with Neural Representations of Concepts
+Bilingual Word Embeddings for Phrase-Based Machine Translation
+New Figures Of Merit For Best-First Probabilistic Chart Parsing
+Improving Feature-Based Biomedical Event Extraction System by Integrating Argument Information
+Espresso: Leveraging Generic Patterns For Automatically Harvesting Semantic Relations
+Dual Coordinate Descent Algorithms for Efficient Large Margin Structured Prediction
+Fluency, Adequacy, or HTER? Exploring Different Human Judgments with a Tunable MT Metric
+Parsing Models for Identifying Multiword Expressions
+LASIGE: using Conditional Random Fields and ChEBI ontology
+Experiments with DBpedia, WordNet and SentiWordNet as resources for sentiment analysis in micro-blogging
+SemEval-2013 Task 3: Spatial Role Labeling
+LIMSIILES: Basic English Substitution for Student Answer Assessment at SemEval 2013
+A Machine Learning Approach To Coreference Resolution Of Noun Phrases
+PCFG Models Of Linguistic Tree Representations
+Assigning Function Tags To Parsed Text
+An Empirical Model Of Multiword Expression Decomposability
+CoNLL-2011 Shared Task: Modeling Unrestricted Coreference in OntoNotes
+SemEval-2013 Task 13: Word Sense Induction for Graded and Non-Graded Senses
+A Corpus-Based Approach For Building Semantic Lexicons
+Japanese Dependency Analysis Using Cascaded Chunking
+Planning Text For Advisory Dialogues
+Length-Incremental Phrase Training for SMT
+ORANGE: A Method For Evaluating Automatic Evaluation Metrics For Machine Translation
+Meaning Unit Segmentation in English and Chinese: a New Approach to Discourse Phenomena
+Representation of Morphosyntactic Units and Coordination Structures in the Turkish Dependency Treebank
+A Multi-Teraflop Constituency Parser using GPUs
+Gender Inference of Twitter Users in Non-English Contexts
+Dependency Parsing of Modern Standard Arabic with Lexical and Inflectional Features
+Detecting Promotional Content in Wikipedia
+Open Domain Targeted Sentiment
+Multilingual WSD-like Constraints for Paraphrase Extraction
+Nouns are Vectors, Adjectives are Matrices: Representing Adjective-Noun Constructions in Semantic Space
+Unsupervised Tree Induction for Tree-based Translation
+Improving Machine Translation Performance By Exploiting Non-Parallel Corpora
+The Structure Of Shared Forests In Ambiguous Parsing
+Efficient Stacked Dependency Parsing by Forest Reranking
+Empirical Studies On The Disambiguation Of Cue Phrases
+SemEval-2012 Task 6: A Pilot on Semantic Textual Similarity
+The Karlsruhe Institute of Technology Translation Systems for the WMT 2013
+Meteor 1.3: Automatic Metric for Reliable Optimization and Evaluation of Machine Translation Systems
+A Dependency-Constrained Hierarchical Model with Moses
+Dynamic Knowledge-Base Alignment for Coreference Resolution
+CU : Computational Assessment of Short Free Text Answers - A Tool for Evaluating Students' Understanding
+A Description of Tunable Machine Translation Evaluation Systems in WMT13 Metrics Task
+Why Generative Phrase Models Underperform Surface Heuristics
+NTNU-CORE: Combining strong features for semantic similarity
+Determining Compositionality of Expresssions Using Various Word Space Models and Methods
+Learning Question Classifiers
+Efficient Parsing Of Highly Ambiguous Context-Free Grammars With Bit Vectors
+Automatic Extraction Of Subcategorization From Corpora
+Bilingual Parsing With Factored Estimation: Using English To Parse Korean
+Overcoming the Lack of Parallel Data in Sentence Compression
+nlp.cs.aueb.gr: Two Stage Sentiment Analysis
+Combining Distributional And Morphological Information For Part Of Speech Induction
+Online Learning Approaches in Computer Assisted Translation
+Using Topic Modeling to Improve Prediction of Neuroticism and Depression in College Students
+What Makes Writing Great? First Experiments on Article Quality Prediction in the Science Journalism Domain
+A Maximum Entropy Approach To Identifying Sentence Boundaries
+Functional Unification Grammar: A Formalism For Machine Translation
+Measuring Word Meaning in Context
+The Reliability Of A Dialogue Structure Coding Scheme
+Memory-Based Dependency Parsing
+Finding Terminology Translations From Non-Parallel Corpora
+Corpus-Based Statistical Sense Resolution
+A Stochastic Finite-State Word-Segmentation Algorithm For Chinese
+Overview of the Pathway Curation (PC) task of BioNLP Shared Task 2013
+Investigations in Exact Inference for Hierarchical Translation
+CodeX: Combining an SVM Classifier and Character N-gram Language Models for Sentiment Analysis on Twitter Text
+Learning to Translate with Source and Target Syntax
+CNGL: Grading Student Answers by Acts of Translation
+An Empirical Study on the Effect of Morphological and Lexical Features in Persian Dependency Parsing
+Coarse to Fine Grained Sense Disambiguation in Wikipedia
+A Discriminative Framework For Bilingual Word Alignment
+Bacteria Biotope Detection, Ontology-based Normalization, and Relation Extraction using Syntactic Rules
+The Tradeoffs Between Open and Traditional Relation Extraction
+NRC-Canada: Building the State-of-the-Art in Sentiment Analysis of Tweets
+An Algorithm For Generating Quantifier Scopings
+Intention-Based Segmentation: Human Reliability And Correlation With Linguistic Cues
+A Simple Pattern-Matching Algorithm For Recovering Empty Nodes And Their Antecedents
+Using Soft Constraints in Joint Inference for Clinical Concept Recognition
+Word Sense And Subjectivity
+A Logical Semantics For Feature Structures
+Parsing The WSJ Using CCG And Log-Linear Models
+GATE: A Framework And Graphical Development Environment For Robust NLP Tools And Applications
+Reranking And Self-Training For Parser Adaptation
+New Ranking Algorithms For Parsing And Tagging: Kernels Over Discrete Structures, And The Voted Perceptron
+XMG: eXtensible MetaGrammar
+A Statistical Parser For Czech
+PARADISE: A Framework For Evaluating Spoken Dialogue Agents
+Generation that Exploits Corpus-Based Statistical Knowledge
+Extracting Biomedical Events and Modifications Using Subgraph Matching with Noisy Training Data
+Dependency Parsing by Belief Propagation
+Two Languages Are More Informative Than One
+Extracting Product Features And Opinions From Reviews
+11,001 New Features for Statistical Machine Translation
+SwatCS: Combining simple classifiers with estimated accuracy
+Forest-based Translation Rule Extraction
+Edinburgh's Syntax-Based Machine Translation Systems
+EVEX in ST'13: Application of a large-scale text mining resource to event extraction and network construction
+Single-Document Summarization as a Tree Knapsack Problem
+Evaluating (and Improving) Sentence Alignment under Noisy Conditions
+Automatic Identification Of Non-Compositional Multi-Word Expressions Using Latent Semantic Analysis
+Algorithms for Deterministic Incremental Dependency Parsing
+Separating Disambiguation from Composition in Distributional Semantics
+A Gibbs Sampler for Phrasal Synchronous Grammar Induction
+SZTE-NLP: Sentiment Detection on Twitter Messages
+Predicting The Semantic Orientation Of Adjectives
+Recognizing Contextual Polarity In Phrase-Level Sentiment Analysis
+CIST System Report for ACL MultiLing 2013 â€ Track 1: Multilingual Multi-document Summarization
+Automatic Idiom Identification in Wiktionary
+Exploring beam-based shift-reduce dependency parsing with DyALog: Results from the SPMRL 2013 shared task
+Overview of the SPMRL 2013 Shared Task: A Cross-Framework Evaluation of Parsing Morphologically Rich Languages

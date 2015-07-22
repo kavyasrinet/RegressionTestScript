@@ -1,0 +1,47 @@
+A00-1031	Statistical Part-Of-Speech Tagger	part-of-speech tagging	Markov models	smoothing technique	smoothing	handling of unknown words	NEGRA corpus	Penn Treebank	TnT tagger	
+A00-2018	parser	parsing	probabilistic generative model	PCFG-based models	maximum entropy	lexicalized markov grammar	conditioning	smoothing	Wall Street Journal treebank	penn treebank
+C92-2082	Automatic Acquisition Of Hyponyms	relation extraction	hyponym acquisition	hand-written patterns	lexico-syntatic patterns	wordnet				
+C96-2141	word alignment	first-order Hidden Markov model	hmm	avalanche bulletin	verbmobil corpus	eutrans corpus				
+D07-1096	Dependency Parsing	conll 2007 shared task on dependency parsing	domain adaptation	CoNLL 2007 Shared Task	treebanks					
+H05-1044	sentiment analysis	Recognizing Contextual Polarity	phase-level sentiment analysis	supervised classifier	contextual polarity	OpinionFinder	mpqa opinion corpus			
+H05-1066	Non-Projective Dependency Parsing	maximum spanning trees	online large-margin learning techniques	Prague Dependency Treebank	MSTParser	prague dependency treebank				
+J01-4004	Coreference Resolution	machine learning	muc-6 coreference corpus	 muc7 coreference corpus						
+J02-3001	shallow semantic parsers	semantic role labeling	statistical classifier	FrameNet						
+J03-1002	word alignment	comparison of statistical alignment models	language-independent statistical methods	German-English Verbmobil task	French-English Hansards task	GIZA++				
+J05-1004	semantic role labeling	rule-based automatic tagger	hand-annotated	proposition bank	Penn Treebank	PropBank				
+J07-2003	statistical machine translation	hierarchical phrase-based models	synchronous CFG	hierarchical phrases	bleu					
+J86-3001	theory of discourse structure	Centering Theory	linguistic	intentional	attentional					
+J90-2002	statistical machine translation	machine translation	language model	statistical methods	IBM model 1					
+J92-4003	language modelling	class-based n-gram models	n-gram models	word clustering	statistical methods	Brown clustering	brown corpus			
+J93-1003	measure	analysis of text	likelihood ratios	likelihood ratio tests						
+J93-2003	statistical machine translation	word alignment	fertility	noisy channel	statistical methods	IBM Model 1	hansard corpus			
+J95-2003	discourse	local coherence	modeling local coherence of discourse	Centering Theory						
+J95-4004	part-of-speech tagging	Transformation Based error-driven Learning	transformation-based learning	Brill Tagger	penn treebank					
+J96-1002	natural language processing	maximum entropy	hansard corpus							
+J96-2004	inter-annotator agreement	assessing agreement on classification tasks	kappa statistic	Cohen's Kappa						
+N03-1017	statistical machine translation	statistical phrase-based translation	phrase-based translation	europarl						
+N03-1033	part-of-speech tagging	dependency networks	cyclic dependency network	Stanford POS Tagger	penn treebank					
+N07-1051	unlexicalized parsing	PCFGs	coarse-to-fine method	Stanford Parser	penn treebank					
+P01-1067	statistical machine translation	syntax-based translation models	syntax-based							
+P02-1038	statistical machine translation	maximum entropy	discriminative training	verbmobil task						
+P02-1053	sentiment classification	unsupervised classification of reviews	PMI-IR	semantic orientation	epinions					
+P03-1021	statistical machine translation	minimum error rate training	Moses							
+P03-1054	unlexicalized parsing	unlexicalized PCFGs	maximum likelihood estimates	Stanford Parser	penn treebank					
+P04-1035	sentiment analysis	minimum cuts	subjectivity summarization based on minimum cuts							
+P05-1012	dependency parsing	online large-margin training	MST Parser	penn treebank	czech prague dependency treebank					
+P05-1022	N-Best Parsing	sentence parsing	MaxEnt reranker	coarse-to-fine method	penn treebank 					
+P05-1033	Statistical Machine Translation	Hierarchical Phrase-Based Model	synchronous context-free grammar	hierarchical phrases	bleu					
+P05-1045	Information extraction	Gibbs Sampling	non-local information	conll 2003 english named entity recognition dataset	cmu seminar announcements information extraction dataset					
+P06-1055	Tree annotation	learning of a grammar	indexing speech	split-and-merge approach	hierarchical splitting	position specific posterior lattices	Wall Street Journal	Penn Treebank	icampus corpus	
+P07-2045	Phrase-based statistical machine translation	statistical machine translation	confusion network decoding	open source toolkit	Moses					
+P93-1024	CLUSTERING OF ENGLISH WORDS	distributional clustering of english words	Deterministic annealing	distributional clustering	associated press newswire					
+P95-1026	Word Sense Disambiguation	Bootstrapping	unsupervised learning							
+P97-1003	Statistical Parsing	lexicalised context-free grammar	generative lexicalized models	penn treebank						
+P98-1013	computational lexicography	berkeley framenet project	frame semantics	subframes	FrameNet					
+P98-2127	word clusters	clustering of similar words	automatic thesaurus construction	distributional pattern of words	distributional word similarity	wordnet				
+W02-1001	part-of-speech tagging	training tagging models	Viterbi decoding	Discriminative Training	perceptron	penn treebank				
+W02-1011	Sentiment Classification	Naive Bayes	maximum entropy classification	support vector machines	machine learning					
+W04-3250	Machine Translation	Statistical Significance Tests	bootstrap resampling							
+W06-2920	Multilingual Dependency Parsing	multi-lingual parsing	conll-x shared task on multilingual dependency parsing							
+W95-0107	Text Chunking	Transformation-Based Learning	Penn Treebank	Wall Street Journal text						
+W96-0213	Part-Of-Speech Tagging	Maximum Entropy	Penn Treebank	Wall Street Journal corpus						

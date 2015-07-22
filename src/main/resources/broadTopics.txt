@@ -1,0 +1,45 @@
+distributional word similarity
+ muc7 coreference corpus
+german-english verbmobil task
+centering theory
+pmi-ir
+penn treebank
+statistical phrase-based translation
+relation extraction
+penn treebank
+stanford parser
+cmu seminar announcements information extraction dataset
+avalanche bulletin
+statistical significance tests
+treebanks
+dependency networks
+linguistic
+bleu
+minimum cuts
+maximum spanning trees
+learning of a grammar
+syntax-based
+hierarchical phrases
+phrase-based statistical machine translation
+multilingual dependency parsing
+maximum entropy classification
+transformation-based learning
+natural language processing
+kappa statistic
+negra corpus
+unlexicalized pcfgs
+subframes
+discriminative training
+language model
+deterministic annealing
+contextual polarity
+n-best parsing
+moses
+unsupervised learning
+mst parser
+class-based n-gram models
+wall street journal text
+analysis of text
+viterbi decoding
+statistical methods
+shallow semantic parsers
