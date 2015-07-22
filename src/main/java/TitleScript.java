@@ -50,7 +50,6 @@ public class TitleScript{
         while((query = br.readLine())!=null){
             total = total + 1;
             //Scrape the endpoint for this query and fetch the title of first paper
-            System.out.println(query);
             query = query.replaceAll("\\P{Print}", "").replaceAll("\\\\","").toLowerCase ( ).trim ( ); //remove special characters and backslash
             String title = scrapeTitleOfFirst(query,client,s2Endpoint,queryTemplate);
             if(title==null){

@@ -1,363 +1,106 @@
 The queries that failed :
 
 
-Query : top accuracy and fast dependency parsing is not a contradiction
-First paper : Very High Accuracy and Fast Dependency Parsing is not a Contradiction
-Query : integrated annotation for biomedical information extraction
-First paper : Corpus annotation for mining biomedical events from literature
-Query : minimum risk annealing for training log-linear models
-First paper : Unsupervised morphological segmentation with log-linear models
+Query : bwbaugh: hierarchical sentiment analysis with partial self-training
+First paper : bwbaugh : Hierarchical sentiment analysis with partial self-training
+Query : mining wordnet for fuzzy sentiment: sentiment tag extraction from wordnet glosses
+First paper : Mining WordNet For A Fuzzy Sentiment: Sentiment Tag Extraction From WordNet Glosses
+Query : ranking algorithms for named-entity extraction: boosting and the voted perceptron
+First paper : Ranking Algorithms For Named Entity Extraction: Boosting And The Voted Perceptron
 Query : sem 2013 shared task: semantic textual similarity
-First paper : sem 2013 shared task: Semantic textual similarity, including a pilot on typed-similarity
-Query : enriching the knowledge sources used in a maximum entropy part-of-speech tagger
-First paper : A Maximum-Entropy Partial Parser for Unrestricted Text
-Query : loria system for the wmt13 quality estimation shared task
-First paper : Quality Estimation. We
+First paper : *SEM 2013 shared task: Semantic Textual Similarity
+Query : message understanding conference- 6: a brief history
+First paper : Message Understanding Conference-6: A Brief History
 Query : functional centering --  grounding referential coherence in information structure
-First paper : Functional Centering -- Grounding Referential Coherence in Information Structure
-Query : scaling to very very large corpora for natural language disambiguation
-First paper : Nltk: The natural language toolkit
-Query : manual and automatic evaluation of machine translation between european languages
-First paper : (Meta-) Evaluation of Machine Translation Chris Callison-Burch
-Query : an empirical evaluation of knowledge sources and learning algorithms for word sense disambiguation
-First paper : Word sense disambiguation: a survey
-Query : meteor: an automatic metric for mt evaluation with improved correlation with human judgments
-First paper : Meteor: An Automatic Metric for MT Evaluation with High Levels of Correlation with Human Judgments
-Query : positive diversity tuning for machine translation system combination
-First paper : Boosting-based System Combination for Machine Translation
-Query : identifying word correspondences in parallel texts
-First paper : 1. Introduction Identifying Word Correspondences in Parallel Texts
-Query : a systematic exploration of diversity in machine translation
-First paper : Survey of clustering algorithms
-Query : a maximum entropy approach to chinese word segmentation
-First paper : Chinese segmentation and new word detection using conditional random fields
-Query : joint wmt 2013 submission of the quaero project
-First paper : Saab Mansour,
-Query : learning biological processes with global constraints
-First paper : Biclustering algorithms for biological data analysis: a survey
-Query : machine transliteration of names in arabic texts
-First paper : Acquisition of English-Chinese Transliterated Word Pairs from Parallel-Aligned Texts using a Statistical Machine Transliteration Model
-Query : kenlm: faster and smaller language model queries
-First paper : Left Language Model State for Syntactic Machine Translation
-Query : uzh in bionlp 2013
-First paper : The Genia Event Extraction Shared Task, 2013 Edition- Overview
-Query : multi-document multilingual summarization corpus preparation, part 1: arabic, english, greek, chinese, romanian
-First paper : Multi-document multilingual summarization corpus preparation, part 2: Czech, hebrew and spanish
-Query : an improved error model for noisy channel spelling correction
-First paper : Pronunciation Modeling for Improved Spelling Correction
-Query : learning bilingual lexicons from monolingual corpora
-First paper : 2008. Learning Bilingual Lexicons from Monolingual Corpora
-Query : leveraging lexical cohesion and disruption for topic segmentation
-First paper : Author manuscript, published in \International Conference on Empirical Methods in Natural Language Processing, EMNLP 2013, Seattle: United States (2013)\ Leveraging lexical cohesion and disruption for topic segmentation
-Query : a bootstrapping method for learning semantic lexicons using extraction pattern contexts
-First paper : Learning subjective nouns using extraction pattern bootstrapping
-Query : evaluating wordnet-based measures of lexical semantic relatedness
-First paper : Evaluating WordNet-based Measures of Lexical Semantic Relatedness, Association for Computational Linguistics
-Query : semeval-2007 task 15: tempeval temporal relation identification
-First paper : Semeval-2010 task 13: Tempeval-2
-Query : generalized inference with multiple semantic role labeling systems
-First paper : Tree kernels for semantic role labeling
-Query : the atis spoken language systems pilot corpus
-First paper : SPEECH RECOGNITION IN SRI'S RESOURCE MANAGEMENT and ATIS Systems
-Query : using a dependency parser to improve smt for subject-object-verb languages
-First paper : GRAFIX: Automated Rule-Based Post Editing System to Improve English-Persian SMT Output
-Query : entity-based cross-document core f erencing using the vector space model
-First paper : Robust and Scalable Linked Data Reasoning Incorporating Provenance and Trust Annotations
-Query : a unigram orientation model for statistical machine translation
-First paper : A Localized Prediction Model for Statistical Machine Translation
-Query : selecting feature sets for comparative and time-oriented quality estimation of machine translation output
-First paper : K.: Local invariant feature detectors: A survey
-Query : precision and recall of machine translation
-First paper : (Meta-) Evaluation of Machine Translation Chris Callison-Burch
-Query : improved alignment models for statistical machine translation
-First paper : The Alignment Template Approach to Statistical Machine Translation
-Query : max-margin parsing
-First paper : A.: Max margin and/or graph learning for parsing the human body
-Query : automatic evaluation of summaries using n-gram co-occurrence statistics
-First paper : Abstract Automatic Evaluation of Summaries Using N-gram Co-Occurrence Statistics
-Query : umbc_ebiquity-core: semantic textual similarity systems
-First paper : UMCC_DLSI: Textual Similarity based on Lexical-Semantic features
+First paper : Functional Centering Grounding Referential Coherence In Information Structure
+Query : two languages are better than one (for syntactic parsing
+First paper : Two Languages are Better than One (for Syntactic Parsing)
+Query : transformation-based error-driven learning and natural language processing: a case study in part of speech tagging
+First paper : Transformation-Based-Error-Driven Learning And Natural Language Processing: A Case Study In Part-Of-Speech Tagging
+Query : probabilistic  cfg with latent annotations
+First paper : Probabilistic CFG With Latent Annotations
+Query : inter-coder agreement for computational linguistics
+First paper : Survey Article: Inter-Coder Agreement for Computational Linguistics
+Query : satty: word sense induction application in web search clustering
+First paper : SATTY : Word Sense Induction Application in Web Search Clustering
+Query : noun classification from predicate.argument structures
+First paper : Noun Classification From Predicate-Argument Structures
+Query : sielers: feature analysis and polarity classification of expressions from twitter and sms data
+First paper : sielers : Feature Analysis and Polarity Classification of Expressions from Twitter and SMS Data
 Query : selectional preferences for semantic role classification
 First paper : Generalizing over Lexical Features: Selectional Preferences for Semantic Role Classification
-Query : pre-reordering for machine translation using transition-based walks on dependency parse trees
-First paper : Multilingual Joint Parsing of Syntactic and Semantic Dependencies with a Latent Variable Model
-Query : metaphor identification as interpretation
-First paper : Negotiation as a Metaphor for Distributed Problem Solving
-Query : the uwb summariser at multiling-2013
-First paper : The UWB Summariser at Multiling-2013 Josef Steinberger
-Query : evaluating translational correspondence using annotation projection
-First paper : Evaluating Cross-Language Annotation Transfer
-Query : textrank: bringing order into texts
-First paper : Revisiting Centrality-as-Relevance: Support Sets and Similarity as Geometric Proximity: Extended abstract
-Query : semeval-2013 task 9 : extraction of drug-drug interactions from biomedical texts (ddiextraction 2013)
-First paper : 2013 SemEval-2013 Task 9: Extraction of Drug-Drug Interactions from Biomedical Texts
-Query : chinese part-of-speech tagging: one-at-a-time or all-at-once? word-based or character-based?
-First paper : Mandarin Part-Of-Speech Tagging and Discriminative Reranking
-Query : building a large-scale annotated chinese corpus
-First paper : Building A Large Chinese Corpus
-Query : online polylingual topic models for fast document translation detection
-First paper : Managing information disparity in multilingual document collections
-Query : cheap and fast  but is it good? evaluating non-expert annotations for natural language tasks
-First paper : Cheap and Fast â But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks. EMNLPâ08
-Query : hidden markov tree model for word alignment
-First paper : Discriminative word alignment with conditional random fields
-Query : lattice minimum bayes-risk decoding for statistical machine translation
-First paper : Minimum bayes-risk decoding for statistical machine translation
-Query : alignment by agreement
-First paper : Gappy phrasal alignment by agreement
-Query : argviz: interactive visualization of topic dynamics in multi-party conversations
-First paper : Argviz: Interactive Visualization of Topic Dynamics in Multi-party Conversations Viet-An Nguyen
-Query : a uniform architecture for parsing and generation
-First paper : A Uniform Architecture for Parsing and Generation Language Processing as Deduction
-Query : re-evaluation the role of bleu in machine translation research
-First paper : Maximum expected bleu training of phrase and lexicon translation models
-Query : representing text chunks
-First paper : Text Chunking using Transformation-Based Learning
-Query : log-linear models for word alignment
-First paper : Contrastive Unsupervised Word Alignment with Non-Local Features
-Query : combining lexical, syntactic, and semantic features with maximum entropy models for information extraction
-First paper : Combining lexical, syntactic and semantic features with Maximum Entropy models for extracting relations
-Query : a syntax-directed translator with extended domain of locality
-First paper : Statistical syntax-directed translation with extended domain of locality
-Query : the senseval-3 english lexical sample task
-First paper : Supervised word sense disambiguation with support vector machines and multiple knowledge sources
-Query : detecting a continuum of compositionality in phrasal verbs
-First paper : Accommodating Multiword Expressions in an Arabic LFG Grammar
-Query : findings of the 2009 workshop on statistical machine translation
-First paper : Findings of the 2011 workshop on statistical machine translation
-Query : on coreference resolution performance metrics
-First paper : Using Decision Trees for Coreference Resolution
-Query : semeval-2013 task 4: free paraphrases of noun compounds
-First paper : SemEval-2013 task 4: Free paraphrases of noun compounds. Nakov
-Query : coping with syntactic ambiguity or how to put the block in the box on the table
-First paper : guage, Direct Manipulation
-Query : a graph model for unsupervised lexical acquisition
-First paper : Graph-based Word Clustering using a Web Search Engine
-Query : wsd2: parameter optimisation for memory-based cross-lingual word-sense disambiguation
-First paper : in the Cross-Lingual Word-Sense Disambiguation
-Query : discriminative reordering models for statistical machine translation
-First paper : Local Phrase Reordering Models for Statistical Machine Translation
-Query : umigon: sentiment analysis for tweets based on terms lists and heuristics
-First paper : Umigon: sentiment analysis for tweets based on lexicons
-Query : efficient parsing for bilexical context-free grammars and head automaton grammars
-First paper : Computational Linguistics) (1999) Efficient Parsing for Bilexical Context-Free Grammars and Head Automaton Grammars â
-Query : generalizing word lattice translation
-First paper : An Introduction to Machine Translation
-Query : automatic construction of a hypernym-labeled noun hierarchy from text
-First paper :  BabelNet: The automatic construction, evaluation and application of a . . .
-Query : pseudo-projective dependency parsing
-First paper : Memory-based dependency parsing
-Query : more words and bigger pictures
-First paper : Keynote Address: More Words and Bigger Pictures About the Speaker
-Query : regular models of phonological rule systems
-First paper : Regular models of phonological rule systems.\ Paper presented to
-Query : discriminative training methods for hidden markov models: theory and experiments with perceptron algorithms
-First paper : and Hidden Markov Models which
-Query : hidden markov tree models for semantic class induction
-First paper : Hidden Markov tree models for semantic class induction Ãdouard Grave Inria- Sierra Project-Team
-Query : a plan-based analysis of indirect speech act
-First paper : The Repair of Speech Act Misunderstandings by Abductive Inference
-Query : semantic class learning from the web with hyponym pattern linkage graphs
-First paper : Semantic Class Learning from the Web with Hyponym Pattern Linkage Graphs. ACLâ08
-Query : shallow semantically-informed pbsmt and hpbsmt
-First paper : Phrase-based SMT (HPBSMT) and
-Query : overview of bionlp09 shared task on event extraction
-First paper : Biomedical event extraction using Kybots
-Query : a study on convolution kernels for shallow statistic parsing
-First paper : Kernel-Based Machines for Abstract and Easy Modeling of Automatic Learning
-Query : one sense per collocation
-First paper : One Sense per Collocation and Genre/Topic Variations
-Query : ssa-uo: unsupervised sentiment analysis in twitter
-First paper : SSA-UO: Unsupervised Twitter Sentiment Analysis
+Query : a structured distributional semantic model: integrating structure with semantics
+First paper : A Structured Distributional Semantic Model : Integrating Structure with Semantics
+Query : irisa participation to bionlp-st 2013: lazy-learning and information retrieval for information extraction tasks
+First paper : IRISA participation to BioNLP-ST13: lazy-learning and information retrieval for information extraction tasks
+Query : summarizing scientific articles - experiments with relevance and rhetorical status
+First paper : Summarizing Scientific Articles: Experiments With Relevance And Rhetorical Status
+Query : su-sentilab: a classification system for sentiment analysis in twitter
+First paper : SU-Sentilab : A Classification System for Sentiment Analysis in Twitter
+Query : a hierarchical bayesian language model based on pitmanyor processes
+First paper : A Hierarchical Bayesian Language Model Based On Pitman-Yor Processes
+Query : integrating graphbased and transition-based dependency parsers
+First paper : Integrating Graph-Based and Transition-Based Dependency Parsers
+Query : squibs what is a paraphrase?
+First paper : Squibs: What Is a Paraphrase?
+Query : automatic rule induction for unknown word guessing
+First paper : Automatic Rule Induction For Unknown-Word Guessing
+Query : attention,  intentions,  and the structure of discourse
+First paper : Attention, Intentions, And The Structure Of Discourse
+Query : duluth: word sense induction applied to web page clustering
+First paper : Duluth : Word Sense Induction Applied to Web Page Clustering
+Query : characterizing structural descriptions produced by various  grammatical formalisms
+First paper : Characterizing Structural Descriptions Produced By Various Grammatical Formalisms
+Query : exploring content models for multidocument summarization
+First paper : Exploring Content Models for Multi-Document Summarization
 Query : semantic role labeling
-First paper : Calibrating features for semantic role labeling
-Query : multilingual summarization: dimensionality reduction and a step towards optimal term coverage
-First paper : Word sense disambiguation: a survey
-Query : a syntactic analysis method of long japanese sentences based on the detection of conjunctive structures
-First paper : A Syntactic Analysis Method of Long Japanese Sentences Based . . . 
-Query : scai: extracting drug-drug interactions using a rich feature vector
-First paper : Biological network extraction from scientific literature: state of the art and challenges
-Query : joshua: an open source toolkit for parsing-based machine translation
-First paper : Demonstration of Joshua: An Open Source Toolkit for Parsing-based Machine Translation â
-Query : findings of the 2010 joint workshop on statistical machine translation and metrics for machine translation
-First paper : Findings of the 2011 workshop on statistical machine translation
-Query : automatically identifying implicit arguments to improve argument linking and coherence modeling
-First paper : Computer-Supported Collaborative Learning DOI 10.1007/s11412-009-9080-x Computer-supported argumentation: A review of the state of the art
-Query : a web application for the diagnostic evaluation of machine translation over specific linguistic phenomena
-First paper : Translation beyond Overall Scores
-Query : hmm-based word alignment in statistical translation
-First paper : The Alignment Template Approach to Statistical Machine Translation
-Query : nlp for uncertain data at scale
-First paper : Nlp (natural language processing) for nlp (natural language programming
-Query : machine translation divergences: a formal description and proposed solution
-First paper : Machine Translation Divergences:
-Query : findings of the 2012 workshop on statistical machine translation
-First paper : Findings of the 2012 Workshop on Statistical Machine Translation Chris
-Query : uniba-core: combining strategies for semantic textual similarity
-First paper : UNIBA-CORE: Combining Strategies for Semantic Textual Similarity Annalina Caputo
-Query : semeval-2013 task 11: word sense induction and disambiguation within an end-user application
-First paper : SemEval-2013 Task 11: Word Sense Induction & Disambiguation within an End-User Application
-Query : three generative, lexicalized models for statistical parsing
-First paper : Head-Driven Statistical Models for Natural Language Parsing
-Query : further meta-evaluation of machine translation
-First paper : (Meta-) Evaluation of Machine Translation Chris Callison-Burch
-Query : parsing morphologically rich languages: introduction to the special issue
-First paper : 2012b. Parsing Morphologically Rich Languages: Introduction to the Special Issue
-Query : a statistical approach to language translation
-First paper : A statistical approach to machine translation
-Query : semeval-2007 task 02: evaluating word sense induction and discrimination systems
-First paper : Word sense disambiguation: a survey
-Query : ukp-biu: similarity and entailment metrics for student response analysis
-First paper : SemEval-2013 task 7: The joint student response analysis and 8th recognizing textual entailment challenge
-Query : not not bad is not bad: a distributional account of negation
-First paper : \Not not bad\is not\bad\: A distributional account of negation
-Query : dls-core: a simple machine learning model of semantic textual similarity
-First paper : sem 2013 shared task: Semantic textual similarity, including a pilot on typed-similarity
-Query : umcc_dlsi-(sa): using a ranking algorithm and informal features to solve sentiment analysis in twitter
-First paper : Franc Camara Independent Consultant
-Query : a tale of two parsers: investigating and combining graph-based and transition-based dependency parsing
-First paper : 2008. A tale of two parsers: Investigating and combining graph-based and transition-based dependency parsing
-Query : rouge: a package for automatic evaluation of summaries
-First paper : Looking for a Few Good Metrics: Automatic Summarization Evaluation - How Many Samples Are Enough?
+First paper : Unsupervised Semantic Role Labeling
+Query : scalable inference and training of context-rich syntactic translation models
+First paper : Improved Features and Grammar Selection for Syntax-Based MT
+Query : limsi: cross-lingual word sense disambiguation using translation sense clustering
+First paper : LIMSI : Cross-lingual Word Sense Disambiguation using Translation Sense Clustering
+Query : working with a small dataset- semi-supervised dependency parsing for irish
+First paper : Working with a small dataset - semi-supervised dependency parsing for Irish
+Query : book review
+First paper : Book Review: 
+Query : information fusion in the context of multidocument summarization
+First paper : Explorations In Sentence Fusion
 Query : the rwth aachen machine translation system for wmt 2013
-First paper : The RWTH aachen machine translation system for IWSLT 2010
-Query : learning a translation lexicon from monolingual corpora
-First paper : 2008. Learning Bilingual Lexicons from Monolingual Corpora
+First paper : Findings of the 2012 Workshop on Statistical Machine Translation
+Query : fbk-irst: a multi-phase kernel based approach for drug-drug interaction detection and classification that exploits linguistic information
+First paper : FBK-irst : A Multi-Phase Kernel Based Approach for Drug-Drug Interaction Detection and Classification that Exploits Linguistic Information
 Query : decipherment
-First paper : Unsupervised Analysis for Decipherment Problems
-Query : generative models for statistical parsing with combinatory categorial grammar
-First paper : Generative Models for Statistical Parsing with Combinatory Categorial
+First paper : Unsupervised Analysis For Decipherment Problems
 Query : first paper : mt quality estimation: the cmu system for wmt13
-First paper : MT quality estimation: The CMU system for WMTâ13
-Query : improved statistical alignment models
-First paper : A systematic comparison of various statistical alignment models
-Query : planning coherent multisentential text
-First paper : Selection: Salience, Relevance and the Coupling between Domain-Level Tasks and Text Planning
-Query : xling: matching query sentences to a parallel corpus using topic models for wsd
-First paper : Sense Disambiguation task. The XLING system
-Query : wbi-ner: the impact of domain-specific features on the performance of identifying and classifying mentions of drugs
-First paper : UTurku: Drug Named Entity Recognition and Drug-Drug Interaction Extraction Using SVM Classification and Domain Knowledge
-Query : reaction: a naive machine learning approach for sentiment classification
-First paper : REACTION: A naive machine learning approach for sentiment
-Query : the english all-words task
-First paper : JU-SKNSB: Extended WordNet Based WSD on the English All-Words Task at SemEval-1 Sudip Kumar Naskar
-Query : stochastic lexicalized tree-adjoining grammars
-First paper : An Alternative Conception of Tree-Adjoining Derivation
+First paper : MT Quality Estimation: The CMU System for WMT'13
+Query : estimators for stochastic ``unification-based'' grammars
+First paper : Estimators For Stochastic \Unification-Based\ Grammars
 Query : discourse processing
-First paper : EVALUATING DISCOURSE PROCESSING ALGORITHMS
-Query : a comparative study on reordering constraints in statistical machine translation
-First paper : A Comparative Study on Reordering Constraints in Statistical Machine
-Query : unsupervised semantic role labeling
-First paper : Unsupervised Semantic Role Induction via Split-Merge Clustering
-Query : labeled pseudo-projective dependency parsing with support vector machines
-First paper : Algorithms for Deterministic Incremental Dependency Parsing
-Query : multi-task learning for improved discriminative training in smt
-First paper : Joint feature selection in distributed stochastic learning for large-scale discriminative training in SMT
-Query : extracting parallel sub-sentential fragments from non-parallel corpora
-First paper : Syntaxdriven learning of sub-sentential translation equivalents and translation rules from parsed parallel corpora
-Query : exploiting syntactic structure for language modeling
-First paper : Discriminative syntactic language modeling for speech recognition
-Query : uottawa: system description for semeval 2013 task 2 sentiment analysis in twitter
-First paper : Analysis in Twitter
-Query : dependency-based syntacticsemantic analysis with propbank and nombank
-First paper : Scaling up Automatic Cross-Lingual Semantic Role Annotation
-Query : estimating upper and lower bounds on the performance of word-sense disambiguation programs
-First paper : Abstract Estimating Upper and Lower Bounds on the Performance of Word-Sense Disambiguation Programs
-Query : ontological promiscuity
-First paper : John Mylopoulos, Springer Verlag 2009, pp. 52-67. The Ontological Level: Revisiting 30 Years of Knowledge Representation
-Query : a comparison of algorithms for maximum entropy parameter estimation
-First paper : Head-Driven Statistical Models for Natural Language Parsing
-Query : translation of it in a deep syntax framework
-First paper : Translation of âIt â in a Deep Syntax Framework
-Query : learning dependency translation models as collections of finite-state head transducers
-First paper : Learning Dependency Translation Models as Collections of Finite State Head Transducers
-Query : the ai-ku system at the spmrl 2013 shared task : unsupervised features for dependency parsing
-First paper : The AI-KU System at the SPMRL 2013 Shared Task: Unsupervised Features for Dependency Parsing
-Query : data-driven parsing using probabilistic linear context-free rewriting systems
-First paper : Probabilistic top-down parsing and language modeling
-Query : improving feature-based biomedical event extraction system by integrating argument information
-First paper : Journal of Biomedical
-Query : parsing models for identifying multiword expressions
-First paper : Manning Parsing Models for Identifying Multiword Expressions
-Query : lasige: using conditional random fields and chebi ontology
-First paper : Francisco Pinto
-Query : limsiiles: basic english substitution for student answer assessment at semeval 2013
-First paper : LIMSIILES: Basic English Substitution for Student Answer Assessment at
-Query : assigning function tags to parsed text
-First paper : Assigning Function Tags to Parsed Text*
-Query : an empirical model of multiword expression decomposability
-First paper : Automatic extraction of Arabic multiword expressions
-Query : orange: a method for evaluating automatic evaluation metrics for machine translation
-First paper : F.J.: ORANGE: A method for evaluating automatic evaluation metrics for machine translation
-Query : dependency parsing of modern standard arabic with lexical and inflectional features
-First paper : Improving Arabic Dependency Parsing with Lexical and Inflectional Morphological Features
-Query : cu : computational assessment of short free text answers - a tool for evaluating students' understanding
-First paper : CU: Computational Assessment of Short Free Text Answers- A Tool for Evaluating Students â Understanding
-Query : why generative phrase models underperform surface heuristics
-First paper : Length-incremental Phrase Training for SMT
-Query : measuring word meaning in context
-First paper : A structured vector space model for word meaning in context
-Query : finding terminology translations from non-parallel corpora
-First paper : Learning Bilingual Translations from Comparable Corpora to Cross-Language Informat ion Retrieval: Hybrid Statistics-based and Linguistics-based Approach
-Query : investigations in exact inference for hierarchical translation
-First paper : Towards knowledge-based machine translation
-Query : coarse to fine grained sense disambiguation in wikipedia
-First paper : CoarsetoFine GrainedSense Disambiguation in Wikipedia
-Query : nrc-canada: building the state-of-the-art in sentiment analysis of tweets
-First paper : Using Hashtags to Capture Fine Emotion Categories from Tweets
-Query : gate: a framework and graphical development environment for robust nlp tools and applications
-First paper : NLP Resources for the Analysis of Patient/Therapist Interviews
-Query : reranking and self-training for parser adaptation
-First paper : 2006b. Reranking and self-training for parser adaptation
-Query : edinburgh's syntax-based machine translation systems
-First paper : ProPOSEL: a human-oriented prosody and PoS English lexicon for machine learning and NLP
-Query : evex in st'13: application of a large-scale text mining resource to event extraction and network construction
-First paper : Evaluating large-scale text mining applications beyond
-Query : cist system report for acl multiling 2013  track 1: multilingual multi-document summarization
-First paper : CIST System Report for ACL MultiLing 2013 --Track 1: Multilingual Multi-document Summarization
+First paper : Evaluating Discourse Processing Algorithms
+Query : the genia event extraction shared task, 2013 edition- overview
+First paper : The Genia Event Extraction Shared Task, 2013 Edition - Overview
+Query : a simple and effective hierarchical phrase reordering model
+First paper : A Hierarchical Phrase-Based Model For Statistical Machine Translation
+Query : the conll-2008 shared task on joint parsing of syntactic and semantic dependencies
+First paper : The CoNLL 2008 Shared Task on Joint Parsing of Syntactic and Semantic Dependencies
+Query : improving statistical machine translation with word class models
+First paper : The Mathematics Of Statistical Machine Translation: Parameter Estimation
+Query : getalp: propagation of a lesk measure through an ant colony algorithm
+First paper : GETALP System : Propagation of a Lesk Measure through an Ant Colony Algorithm
+Query : machine translation using probabilistic synchronous dependency insertion grammar
+First paper : Machine Translation Using Probabilistic Synchronous Dependency Insertion Grammars
+Query : word association norms, mutual information and lexicography
+First paper : Word Association Norms, Mutual Information, And Lexicography
 
 
 Number of queries with no results: 
 
-Query : are act's scores increasing with better translation quality?
-Query : uem-uc3m: an ontology-based named entity recognition system for biomedical texts.
-Query : joshua 5.0: sparser, better, faster, server
-Query : ubc_uos-typed: regression for typed-similarity
-Query : celi: edits and generic text pair classification
-Query : iiit-h: a corpus-driven co-occurrence based probabilistic model for noun compound paraphrasing
-Query : obituary: george a. miller
-Query : nil_ucm: extracting drug-drug interactions from text through combination of sequence and tree kernels
+Query : fully automatic lexicon expansion for domainoriented sentiment analysis
 Query : limsi submission for the wmt13 quality estimation task: an experiment with ngram posteriors
-Query : this text has the scent of starbucks: a laplacian structured sparsity model for computational branding analytics
-Query : a hierarchical bayesian language model based on pitmanyor processes
 Query : why doesnt em find good hmm pos-tagge
-Query : unitor-core_typed: combining text similarity and semantic filters through sv regression
-Query : squibs: going to the roots of dependency parsing
-Query : ucolorado_som: extraction of drug-drug interactions from biomedical text using knowledge-rich and knowledge-poor features
-Query : montague meets markov: deep semantics with probabilistic logical form
-Query : cfilt-core: semantic textual similarity using universal networking language
+Query : predicting the compositionalityof multiword expressions using translationsin multiple languages
 Query : tbtak-blgem german-english machine translation systems for w13
 Query : exploiting the contribution of morphological information to parsing: the basque team system in the sprml2013 shared task
 Query : first paper : spmrl13 shared task system: the cadim arabic dependency parser
-Query : uc3m: a kernel-based approach to identify and classify ddis in bio-medical texts.
 Query : mayoclinicnlpcore: semantic representations for textual similarity
-Query : fast, cheap, and creative: evaluating translation quality using amazons mechanical turk
-Query : polyucomp-core_typed: computing semantic textual similarity using overlapped senses
-Query : unimelb_nlp-core: integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
-Query : the university of cambridge russian-english system at wmt13
-Query : multilingual multi-document summarization with poly2
-Query : the lingo redwoods treebank: motivation and preliminary applications
-Query : fish transporters and miracle homes: how compositional distributional semantics can help np parsing
-Query : gro task: populating the gene regulation ontology with events and relations
-Query : stanfords multi-pass sieve coreference resolution system at the conll-2011 shared task
-Query : nilc_usp: a hybrid system for sentiment analysis in twitter messages
-Query : ukp-wsi: ukp lab semeval-2013 task 11 system description
-Query : tagging inlective languages: prediction of morphological categories for a rich structured tagset
-Query : sfs-tue: compound paraphrasing with a language model and discriminative reranking
-Query : the semeval-2007 weps evaluation: establishing a benchmark for the web people search task
-Query : umcc_dlsi: semantic and lexical features for detection and classification drugs in biomedical texts
-Query : fluency, adequacy, or hter? exploring different human judgments with a tunable mt metric
-Query : experiments with dbpedia, wordnet and sentiwordnet as resources for sentiment analysis in micro-blogging
-Query : determining compositionality of expresssions using various word space models and methods
-Query : 11,001 new features for statistical machine translation
-Query : overview of the spmrl 2013 shared task: a cross-framework evaluation of parsing morphologically rich languages
+Query : branch and bound algorithm for dependency parsing with non-local features. tacl

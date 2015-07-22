@@ -320,4 +320,44 @@ First paper : CIST System Report for ACL MultiLing 2013 --Track 1: Multilingual 
 Number of queries with no results: 
 
 Query : are act's scores increasing with better translation quality?
-Query : uem-uc3m: an ontology-based named entity recognition system for b
+Query : uem-uc3m: an ontology-based named entity recognition system for biomedical texts.
+Query : joshua 5.0: sparser, better, faster, server
+Query : ubc_uos-typed: regression for typed-similarity
+Query : celi: edits and generic text pair classification
+Query : iiit-h: a corpus-driven co-occurrence based probabilistic model for noun compound paraphrasing
+Query : obituary: george a. miller
+Query : nil_ucm: extracting drug-drug interactions from text through combination of sequence and tree kernels
+Query : limsi submission for the wmt13 quality estimation task: an experiment with ngram posteriors
+Query : this text has the scent of starbucks: a laplacian structured sparsity model for computational branding analytics
+Query : a hierarchical bayesian language model based on pitmanyor processes
+Query : why doesnt em find good hmm pos-tagge
+Query : unitor-core_typed: combining text similarity and semantic filters through sv regression
+Query : squibs: going to the roots of dependency parsing
+Query : ucolorado_som: extraction of drug-drug interactions from biomedical text using knowledge-rich and knowledge-poor features
+Query : montague meets markov: deep semantics with probabilistic logical form
+Query : cfilt-core: semantic textual similarity using universal networking language
+Query : tbtak-blgem german-english machine translation systems for w13
+Query : exploiting the contribution of morphological information to parsing: the basque team system in the sprml2013 shared task
+Query : first paper : spmrl13 shared task system: the cadim arabic dependency parser
+Query : uc3m: a kernel-based approach to identify and classify ddis in bio-medical texts.
+Query : mayoclinicnlpcore: semantic representations for textual similarity
+Query : fast, cheap, and creative: evaluating translation quality using amazons mechanical turk
+Query : polyucomp-core_typed: computing semantic textual similarity using overlapped senses
+Query : unimelb_nlp-core: integrating predictions from multiple domains and feature sets for estimating semantic textual similarity
+Query : the university of cambridge russian-english system at wmt13
+Query : multilingual multi-document summarization with poly2
+Query : the lingo redwoods treebank: motivation and preliminary applications
+Query : fish transporters and miracle homes: how compositional distributional semantics can help np parsing
+Query : gro task: populating the gene regulation ontology with events and relations
+Query : stanfords multi-pass sieve coreference resolution system at the conll-2011 shared task
+Query : nilc_usp: a hybrid system for sentiment analysis in twitter messages
+Query : ukp-wsi: ukp lab semeval-2013 task 11 system description
+Query : tagging inlective languages: prediction of morphological categories for a rich structured tagset
+Query : sfs-tue: compound paraphrasing with a language model and discriminative reranking
+Query : the semeval-2007 weps evaluation: establishing a benchmark for the web people search task
+Query : umcc_dlsi: semantic and lexical features for detection and classification drugs in biomedical texts
+Query : fluency, adequacy, or hter? exploring different human judgments with a tunable mt metric
+Query : experiments with dbpedia, wordnet and sentiwordnet as resources for sentiment analysis in micro-blogging
+Query : determining compositionality of expresssions using various word space models and methods
+Query : 11,001 new features for statistical machine translation
+Query : overview of the spmrl 2013 shared task: a cross-framework evaluation of parsing morphologically rich languages
